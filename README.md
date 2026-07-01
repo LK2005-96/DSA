@@ -18,7 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Easy |
 
 </details>
 
