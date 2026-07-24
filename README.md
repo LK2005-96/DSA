@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./Array/Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) | Hard |
 | 3513 | [Number of Unique XOR Triplets I](./Array/Number%20of%20Unique%20XOR%20Triplets%20I/) | Medium |
+| 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
 
 </details>
 
