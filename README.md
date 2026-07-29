@@ -60,6 +60,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 
 </details>
 
