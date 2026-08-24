@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:57:33.775Z",
+  "lastUpdated": "2026-08-24T07:57:38.501Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2034,6 +2034,12 @@
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "3 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
             }
           }
         },
@@ -4012,6 +4018,187 @@
               "runtime": "2 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Sort Array By Parity II/"
+            }
+          }
+        },
+        "sort-array-by-parity": {
+          "questionId": "905",
+          "title": "Sort Array By Parity",
+          "titleSlug": "sort-array-by-parity",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Sort Array By Parity/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "0 ms",
+              "memory": "13.1 MB",
+              "githubPath": "LeetCode/Array/Sort Array By Parity/"
+            }
+          }
+        },
+        "fair-candy-swap": {
+          "questionId": "888",
+          "title": "Fair Candy Swap",
+          "titleSlug": "fair-candy-swap",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "214 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Fair Candy Swap/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "11 ms",
+              "memory": "14.5 MB",
+              "githubPath": "LeetCode/Array/Fair Candy Swap/"
+            }
+          }
+        },
+        "custom-sort-string": {
+          "questionId": "791",
+          "title": "Custom Sort String",
+          "titleSlug": "custom-sort-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "2 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Hash Table/Custom Sort String/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "0 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Hash Table/Custom Sort String/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "12 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "73 ms",
+              "memory": "13.8 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "3 ms",
+              "memory": "13.8 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            },
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "10 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "5 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "1 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558258501,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            },
+            "python": {
+              "syncedAt": 1787558258501,
+              "runtime": "0 ms",
+              "memory": "12.6 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558253776" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558258503" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -72,6 +72,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
+| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 354 | [Russian Doll Envelopes](./Array/Russian%20Doll%20Envelopes/) | Hard |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/) | Hard |
 | 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
@@ -81,6 +83,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
+| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
+| 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
 | 581 | [Shortest Unsorted Continuous Subarray](./Array/Shortest%20Unsorted%20Continuous%20Subarray/) | Medium |
 | 587 | [Erect the Fence](./Array/Erect%20the%20Fence/) | Hard |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
@@ -99,7 +103,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 857 | [Minimum Cost to Hire K Workers](./Array/Minimum%20Cost%20to%20Hire%20K%20Workers/) | Hard |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
+| 888 | [Fair Candy Swap](./Array/Fair%20Candy%20Swap/) | Easy |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
+| 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 908 | [Smallest Range I](./Array/Smallest%20Range%20I/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
@@ -200,6 +206,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 726 | [Number of Atoms](./Hash%20Table/Number%20of%20Atoms/) | Hard |
 | 770 | [Basic Calculator IV](./Hash%20Table/Basic%20Calculator%20IV/) | Hard |
+| 791 | [Custom Sort String](./Hash%20Table/Custom%20Sort%20String/) | Medium |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 | 3760 | [Maximum Substrings With Distinct Start](./Hash%20Table/Maximum%20Substrings%20With%20Distinct%20Start/) | Medium |
