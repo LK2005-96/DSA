@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558232665" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558239343" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,10 +17,23 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
+| 18 | [4Sum](./Array/4Sum/) | Medium |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
+| 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
+| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
+| 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
+| 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
+| 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
@@ -179,6 +192,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
