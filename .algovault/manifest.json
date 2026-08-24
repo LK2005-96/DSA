@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:59:13.211Z",
+  "lastUpdated": "2026-08-24T07:59:33.292Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -493,7 +493,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558150801,
+              "syncedAt": 1787558373292,
               "runtime": "0 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
@@ -519,7 +519,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558353211,
+              "syncedAt": 1787558150801,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
