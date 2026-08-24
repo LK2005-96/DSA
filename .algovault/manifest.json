@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:04:38.275Z",
+  "lastUpdated": "2026-08-24T08:04:48.665Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558136079,
+              "syncedAt": 1787558688664,
               "runtime": "6 ms",
               "memory": "67.1 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -35,7 +35,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558678275,
+              "syncedAt": 1787558136079,
               "runtime": "9 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
