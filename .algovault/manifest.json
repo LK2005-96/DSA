@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:58:29.007Z",
+  "lastUpdated": "2026-08-24T07:58:33.254Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5418,6 +5418,46 @@
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558313254,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Impartial Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558313254,
+              "runtime": "0 ms",
+              "memory": "40 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
             }
           }
         }
