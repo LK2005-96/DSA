@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:28.288Z",
+  "lastUpdated": "2026-08-24T07:56:33.042Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1793,6 +1793,164 @@
               "runtime": "25 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193041,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "odd-even-linked-list": {
+          "questionId": "328",
+          "title": "Odd Even Linked List",
+          "titleSlug": "odd-even-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193041,
+              "runtime": "0 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193041,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193042,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "restore-finishing-order": {
+          "questionId": "3668",
+          "title": "Restore Finishing Order",
+          "titleSlug": "restore-finishing-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193042,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Restore Finishing Order/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193042,
+              "runtime": "2 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558193042,
+              "runtime": "1 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting",
+            "Boyer–Moore Majority Vote Algorithm"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1787558193042,
+              "runtime": "3 ms",
+              "memory": "21.1 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
+            },
+            "java": {
+              "syncedAt": 1787558193042,
+              "runtime": "1 ms",
+              "memory": "55.9 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
         }
