@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:00:58.065Z",
+  "lastUpdated": "2026-08-24T08:01:18.503Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -360,9 +360,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558142697,
+              "syncedAt": 1787558478503,
               "runtime": "1 ms",
-              "memory": "47.1 MB",
+              "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
             }
           }
@@ -377,9 +377,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558458064,
+              "syncedAt": 1787558142697,
               "runtime": "4 ms",
-              "memory": "46.2 MB",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
