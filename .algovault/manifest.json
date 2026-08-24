@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:02:21.275Z",
+  "lastUpdated": "2026-08-24T08:02:30.423Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -247,9 +247,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558142697,
-              "runtime": "2 ms",
-              "memory": "43.3 MB",
+              "syncedAt": 1787558550423,
+              "runtime": "8 ms",
+              "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
             }
           }
@@ -266,7 +266,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558541274,
+              "syncedAt": 1787558142697,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
