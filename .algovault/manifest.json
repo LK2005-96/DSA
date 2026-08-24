@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:02:42.311Z",
+  "lastUpdated": "2026-08-24T08:02:59.200Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -209,7 +209,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558142697,
+              "syncedAt": 1787558579200,
               "runtime": "2 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Maximum Binary Tree/"
