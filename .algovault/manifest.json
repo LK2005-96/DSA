@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:00:23.658Z",
+  "lastUpdated": "2026-08-24T08:00:35.578Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -397,7 +397,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558150801,
+              "syncedAt": 1787558435578,
               "runtime": "46 ms",
               "memory": "115.5 MB",
               "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
@@ -415,7 +415,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558423658,
+              "syncedAt": 1787558150801,
               "runtime": "1 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Linked List/Remove Linked List Elements/"
