@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:58:00.042Z",
+  "lastUpdated": "2026-08-24T07:58:04.406Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1050,6 +1050,12 @@
               "runtime": "1 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Permutations/"
+            },
+            "python": {
+              "syncedAt": 1787558284406,
+              "runtime": "2 ms",
+              "memory": "12.7 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
             }
           }
         },
@@ -1255,6 +1261,12 @@
               "runtime": "2 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
+            },
+            "python": {
+              "syncedAt": 1787558284405,
+              "runtime": "23 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
             }
           }
         },
@@ -1273,6 +1285,12 @@
               "syncedAt": 1787558171975,
               "runtime": "1 ms",
               "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            },
+            "python": {
+              "syncedAt": 1787558284405,
+              "runtime": "0 ms",
+              "memory": "12.7 MB",
               "githubPath": "LeetCode/Array/Subsets/"
             }
           }
@@ -1705,6 +1723,12 @@
               "syncedAt": 1787558183524,
               "runtime": "5 ms",
               "memory": "77.6 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            },
+            "python": {
+              "syncedAt": 1787558284406,
+              "runtime": "125 ms",
+              "memory": "20.8 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
@@ -4838,6 +4862,96 @@
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
+            },
+            "python": {
+              "syncedAt": 1787558284405,
+              "runtime": "0 ms",
+              "memory": "12.3 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558284405,
+              "runtime": "0 ms",
+              "memory": "12.3 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            },
+            "java": {
+              "syncedAt": 1787558284405,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558284406,
+              "runtime": "1 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558284406,
+              "runtime": "9 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558284406,
+              "runtime": "4 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
             }
           }
         }
