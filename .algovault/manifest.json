@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:59:46.306Z",
+  "lastUpdated": "2026-08-24T07:59:54.955Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -473,7 +473,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558386306,
+              "syncedAt": 1787558150801,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
@@ -640,8 +640,8 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558150801,
-              "runtime": "99 ms",
+              "syncedAt": 1787558394955,
+              "runtime": "96 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Maximize Active Section with Trade I/"
             }
