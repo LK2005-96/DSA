@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:03:16.254Z",
+  "lastUpdated": "2026-08-24T08:03:28.216Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -150,9 +150,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558136079,
-              "runtime": "2 ms",
-              "memory": "52.6 MB",
+              "syncedAt": 1787558608216,
+              "runtime": "3 ms",
+              "memory": "50.7 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
             }
           }
@@ -168,7 +168,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558596254,
+              "syncedAt": 1787558136079,
               "runtime": "1 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
