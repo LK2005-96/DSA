@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:55:39.884Z",
+  "lastUpdated": "2026-08-24T07:55:42.697Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -193,21 +193,194 @@
             }
           }
         },
-        "two-sum": {
-          "questionId": "1",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
+        "maximum-binary-tree": {
+          "questionId": "654",
+          "title": "Maximum Binary Tree",
+          "titleSlug": "maximum-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Stack",
+            "Tree",
+            "Monotonic Stack",
+            "Binary Tree",
+            "Cartesian Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "2 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Binary Tree/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "remove-outermost-parentheses": {
+          "questionId": "1021",
+          "title": "Remove Outermost Parentheses",
+          "titleSlug": "remove-outermost-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "2 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
+            }
+          }
+        },
+        "implement-stack-using-queues": {
+          "questionId": "225",
+          "title": "Implement Stack using Queues",
+          "titleSlug": "implement-stack-using-queues",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
+            }
+          }
+        },
+        "letter-tile-possibilities": {
+          "questionId": "1079",
+          "title": "Letter Tile Possibilities",
+          "titleSlug": "letter-tile-possibilities",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "9 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
+            }
+          }
+        },
+        "insert-greatest-common-divisors-in-linked-list": {
+          "questionId": "2807",
+          "title": "Insert Greatest Common Divisors in Linked List",
+          "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Linked List/Insert Greatest Common Divisors in Linked List/"
+            }
+          }
+        },
+        "find-the-degree-of-each-vertex": {
+          "questionId": "3898",
+          "title": "Find the Degree of Each Vertex",
+          "titleSlug": "find-the-degree-of-each-vertex",
           "difficulty": "Easy",
           "tags": [
             "Array",
-            "Hash Table"
+            "Graph Theory",
+            "Matrix"
           ],
           "solutions": {
-            "123456class solution {public:    vector<int> twosum(vector<int>& nums, int target) {            }};": {
-              "syncedAt": 1787558139884,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Array/Two Sum/"
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "3 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Array/Find the Degree of Each Vertex/"
+            }
+          }
+        },
+        "maximum-substrings-with-distinct-start": {
+          "questionId": "3760",
+          "title": "Maximum Substrings With Distinct Start",
+          "titleSlug": "maximum-substrings-with-distinct-start",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "32 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Hash Table/Maximum Substrings With Distinct Start/"
+            }
+          }
+        },
+        "minimum-operations-to-make-array-sum-divisible-by-k": {
+          "questionId": "3512",
+          "title": "Minimum Operations to Make Array Sum Divisible by K",
+          "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "4 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
         }
