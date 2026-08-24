@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558245426" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558253776" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -101,8 +101,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 908 | [Smallest Range I](./Array/Smallest%20Range%20I/) | Easy |
+| 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
+| 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1030 | [Matrix Cells in Distance Order](./Array/Matrix%20Cells%20in%20Distance%20Order/) | Easy |
 | 1052 | [Grumpy Bookstore Owner](./Array/Grumpy%20Bookstore%20Owner/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
@@ -234,13 +237,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
+| 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
+| 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
+| 537 | [Complex Number Multiplication](./Math/Complex%20Number%20Multiplication/) | Medium |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
+| 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
