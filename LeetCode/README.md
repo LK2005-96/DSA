@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558313256" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558315856" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -287,7 +287,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
-| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
@@ -300,7 +299,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
-| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 

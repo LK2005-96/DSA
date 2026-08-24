@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:58:33.254Z",
+  "lastUpdated": "2026-08-24T07:58:35.854Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -583,7 +583,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558150801,
+              "syncedAt": 1787558315854,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
@@ -5418,46 +5418,6 @@
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
-            }
-          }
-        },
-        "number-of-steps-to-reduce-a-number-to-zero": {
-          "questionId": "1342",
-          "title": "Number of Steps to Reduce a Number to Zero",
-          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Bit Manipulation"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1787558313254,
-              "runtime": "0 ms",
-              "memory": "40.4 MB",
-              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
-            }
-          }
-        },
-        "nim-game": {
-          "questionId": "292",
-          "title": "Nim Game",
-          "titleSlug": "nim-game",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Brainteaser",
-            "Minimax",
-            "Game Theory",
-            "Nim Game",
-            "Impartial Game"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1787558313254,
-              "runtime": "0 ms",
-              "memory": "40 MB",
-              "githubPath": "LeetCode/Math/Nim Game/"
             }
           }
         }
