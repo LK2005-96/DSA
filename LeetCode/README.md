@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558301701" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558304776" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -89,6 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
@@ -124,6 +125,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 857 | [Minimum Cost to Hire K Workers](./Array/Minimum%20Cost%20to%20Hire%20K%20Workers/) | Hard |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 888 | [Fair Candy Swap](./Array/Fair%20Candy%20Swap/) | Easy |
+| 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 908 | [Smallest Range I](./Array/Smallest%20Range%20I/) | Easy |

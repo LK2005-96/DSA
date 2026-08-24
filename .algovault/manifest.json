@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:58:21.701Z",
+  "lastUpdated": "2026-08-24T07:58:24.774Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5247,6 +5247,12 @@
               "runtime": "0 ms",
               "memory": "57.6 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
+            },
+            "python": {
+              "syncedAt": 1787558304774,
+              "runtime": "3 ms",
+              "memory": "22.8 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
             }
           }
         },
@@ -5265,6 +5271,45 @@
               "runtime": "2 ms",
               "memory": "55.6 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558304774,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558304774,
+              "runtime": "3 ms",
+              "memory": "55.5 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
             }
           }
         }
