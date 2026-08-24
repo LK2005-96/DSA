@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558295819" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558301701" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -82,11 +82,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 174 | [Dungeon Game](./Array/Dungeon%20Game/) | Hard |
 | 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
+| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
+| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
@@ -138,6 +140,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1472 | [Design Browser History](./Array/Design%20Browser%20History/) | Medium |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/) | Easy |
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
