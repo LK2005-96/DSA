@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:03:39.093Z",
+  "lastUpdated": "2026-08-24T08:03:46.239Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -116,9 +116,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558136079,
-              "runtime": "1 ms",
-              "memory": "44.6 MB",
+              "syncedAt": 1787558626238,
+              "runtime": "38 ms",
+              "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
             }
           }
@@ -133,9 +133,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558619093,
+              "syncedAt": 1787558136079,
               "runtime": "0 ms",
-              "memory": "46.8 MB",
+              "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
             }
           }
