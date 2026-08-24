@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558226590" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558232665" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,14 +21,26 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
+| 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
+| 64 | [Minimum Path Sum](./Array/Minimum%20Path%20Sum/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
+| 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
+| 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
+| 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
+| 123 | [Best Time to Buy and Sell Stock III](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/) | Hard |
+| 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |

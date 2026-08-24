@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:57:06.588Z",
+  "lastUpdated": "2026-08-24T07:57:12.664Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3052,6 +3052,234 @@
               "runtime": "3 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Surrounded Regions/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "31 ms",
+              "memory": "96 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iii": {
+          "questionId": "123",
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "192 ms",
+              "memory": "153.2 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-ii": {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
+            }
+          }
+        },
+        "triangle": {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "5 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Triangle/"
+            }
+          }
+        },
+        "construct-binary-tree-from-preorder-and-inorder-traversal": {
+          "questionId": "105",
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "10 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "maximal-rectangle": {
+          "questionId": "85",
+          "title": "Maximal Rectangle",
+          "titleSlug": "maximal-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Matrix",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "4 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Maximal Rectangle/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "minimum-path-sum": {
+          "questionId": "64",
+          "title": "Minimum Path Sum",
+          "titleSlug": "minimum-path-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "3 ms",
+              "memory": "50.5 MB",
+              "githubPath": "LeetCode/Array/Minimum Path Sum/"
+            }
+          }
+        },
+        "unique-paths-ii": {
+          "questionId": "63",
+          "title": "Unique Paths II",
+          "titleSlug": "unique-paths-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Unique Paths II/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
+            }
+          }
+        },
+        "insert-interval": {
+          "questionId": "57",
+          "title": "Insert Interval",
+          "titleSlug": "insert-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558232664,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Insert Interval/"
             }
           }
         }
