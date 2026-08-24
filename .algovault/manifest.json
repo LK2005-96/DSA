@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:57:54.014Z",
+  "lastUpdated": "2026-08-24T07:58:00.042Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1344,6 +1344,12 @@
               "syncedAt": 1787558171975,
               "runtime": "1 ms",
               "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            },
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "0 ms",
+              "memory": "12.6 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
             }
           }
@@ -4670,6 +4676,168 @@
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "1 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            },
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "0 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "23 ms",
+              "memory": "13.6 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            },
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "5 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "1 ms",
+              "memory": "12.4 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            },
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "2 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            },
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "1 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "split-a-string-in-balanced-strings": {
+          "questionId": "1221",
+          "title": "Split a String in Balanced Strings",
+          "titleSlug": "split-a-string-in-balanced-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "4 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
+            },
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            },
+            "python": {
+              "syncedAt": 1787558280042,
+              "runtime": "3 ms",
+              "memory": "12.3 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558280042,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558274016" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558280048" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
@@ -207,14 +208,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
+| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 726 | [Number of Atoms](./Hash%20Table/Number%20of%20Atoms/) | Hard |
 | 770 | [Basic Calculator IV](./Hash%20Table/Basic%20Calculator%20IV/) | Hard |
+| 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 791 | [Custom Sort String](./Hash%20Table/Custom%20Sort%20String/) | Medium |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
+| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 | 3760 | [Maximum Substrings With Distinct Start](./Hash%20Table/Maximum%20Substrings%20With%20Distinct%20Start/) | Medium |
 
@@ -310,8 +314,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 297 | [Serialize and Deserialize Binary Tree](./String/Serialize%20and%20Deserialize%20Binary%20Tree/) | Hard |
 | 301 | [Remove Invalid Parentheses](./String/Remove%20Invalid%20Parentheses/) | Hard |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
+| 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
+| 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 1021 | [Remove Outermost Parentheses](./String/Remove%20Outermost%20Parentheses/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 1221 | [Split a String in Balanced Strings](./String/Split%20a%20String%20in%20Balanced%20Strings/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 3499 | [Maximize Active Section with Trade I](./String/Maximize%20Active%20Section%20with%20Trade%20I/) | Medium |
 
