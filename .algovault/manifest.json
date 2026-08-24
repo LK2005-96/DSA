@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:55:50.801Z",
+  "lastUpdated": "2026-08-24T07:55:58.879Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -671,6 +671,246 @@
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Enumeration/Sequential Digits/"
+            }
+          }
+        },
+        "rank-transform-of-an-array": {
+          "questionId": "1331",
+          "title": "Rank Transform of an Array",
+          "titleSlug": "rank-transform-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "28 ms",
+              "memory": "69.7 MB",
+              "githubPath": "LeetCode/Array/Rank Transform of an Array/"
+            }
+          }
+        },
+        "count-the-number-of-complete-components": {
+          "questionId": "2685",
+          "title": "Count the Number of Complete Components",
+          "titleSlug": "count-the-number-of-complete-components",
+          "difficulty": "Medium",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "12 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Depth-First Search/Count the Number of Complete Components/"
+            }
+          }
+        },
+        "sum-of-nodes-with-even-valued-grandparent": {
+          "questionId": "1315",
+          "title": "Sum of Nodes with Even-Valued Grandparent",
+          "titleSlug": "sum-of-nodes-with-even-valued-grandparent",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "1 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Tree/Sum of Nodes with Even-Valued Grandparent/"
+            }
+          }
+        },
+        "reverse-odd-levels-of-binary-tree": {
+          "questionId": "2415",
+          "title": "Reverse Odd Levels of Binary Tree",
+          "titleSlug": "reverse-odd-levels-of-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "1 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Tree/Reverse Odd Levels of Binary Tree/"
+            }
+          }
+        },
+        "students-and-examinations": {
+          "questionId": "1280",
+          "title": "Students and Examinations",
+          "titleSlug": "students-and-examinations",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "1148 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Students and Examinations/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "534 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "406 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "69 ms",
+              "memory": "78.4 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "9 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "4 ms",
+              "memory": "52.3 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "customer-placing-the-largest-number-of-orders": {
+          "questionId": "586",
+          "title": "Customer Placing the Largest Number of Orders",
+          "titleSlug": "customer-placing-the-largest-number-of-orders",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "1636 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "421 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "528 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
             }
           }
         }
