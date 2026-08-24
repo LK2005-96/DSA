@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:03:28.216Z",
+  "lastUpdated": "2026-08-24T08:03:39.093Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -133,9 +133,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558136079,
+              "syncedAt": 1787558619093,
               "runtime": "0 ms",
-              "memory": "46.3 MB",
+              "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
             }
           }
@@ -150,9 +150,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558608216,
-              "runtime": "3 ms",
-              "memory": "50.7 MB",
+              "syncedAt": 1787558136079,
+              "runtime": "2 ms",
+              "memory": "52.6 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
             }
           }
