@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558209874" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558218692" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,18 +30,25 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
+| 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
+| 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
+| 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
+| 354 | [Russian Doll Envelopes](./Array/Russian%20Doll%20Envelopes/) | Hard |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/) | Hard |
 | 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 472 | [Concatenated Words](./Array/Concatenated%20Words/) | Hard |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 581 | [Shortest Unsorted Continuous Subarray](./Array/Shortest%20Unsorted%20Continuous%20Subarray/) | Medium |
 | 587 | [Erect the Fence](./Array/Erect%20the%20Fence/) | Hard |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
+| 630 | [Course Schedule III](./Array/Course%20Schedule%20III/) | Hard |
 | 632 | [Smallest Range Covering Elements from K Lists](./Array/Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/) | Hard |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
@@ -171,6 +178,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
+| 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
+| 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
@@ -204,7 +214,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 87 | [Scramble String](./String/Scramble%20String/) | Hard |
+| 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
+| 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
+| 297 | [Serialize and Deserialize Binary Tree](./String/Serialize%20and%20Deserialize%20Binary%20Tree/) | Hard |
+| 301 | [Remove Invalid Parentheses](./String/Remove%20Invalid%20Parentheses/) | Hard |
 | 1021 | [Remove Outermost Parentheses](./String/Remove%20Outermost%20Parentheses/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |

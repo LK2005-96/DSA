@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:49.873Z",
+  "lastUpdated": "2026-08-24T07:56:58.690Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2453,6 +2453,328 @@
               "runtime": "2 ms",
               "memory": "59.3 MB",
               "githubPath": "LeetCode/Array/Self Crossing/"
+            }
+          }
+        },
+        "course-schedule-iii": {
+          "questionId": "630",
+          "title": "Course Schedule III",
+          "titleSlug": "course-schedule-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "31 ms",
+              "memory": "54.9 MB",
+              "githubPath": "LeetCode/Array/Course Schedule III/"
+            }
+          }
+        },
+        "concatenated-words": {
+          "questionId": "472",
+          "title": "Concatenated Words",
+          "titleSlug": "concatenated-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Depth-First Search",
+            "Trie",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "62 ms",
+              "memory": "51.6 MB",
+              "githubPath": "LeetCode/Array/Concatenated Words/"
+            }
+          }
+        },
+        "russian-doll-envelopes": {
+          "questionId": "354",
+          "title": "Russian Doll Envelopes",
+          "titleSlug": "russian-doll-envelopes",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming",
+            "Sorting",
+            "Longest Increasing Subsequence"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "51 ms",
+              "memory": "99.4 MB",
+              "githubPath": "LeetCode/Array/Russian Doll Envelopes/"
+            }
+          }
+        },
+        "contains-duplicate-iii": {
+          "questionId": "220",
+          "title": "Contains Duplicate III",
+          "titleSlug": "contains-duplicate-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Sorting",
+            "Bucket Sort",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "59 ms",
+              "memory": "127 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate III/"
+            }
+          }
+        },
+        "remove-invalid-parentheses": {
+          "questionId": "301",
+          "title": "Remove Invalid Parentheses",
+          "titleSlug": "remove-invalid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Backtracking",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "50 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/String/Remove Invalid Parentheses/"
+            }
+          }
+        },
+        "serialize-and-deserialize-binary-tree": {
+          "questionId": "297",
+          "title": "Serialize and Deserialize Binary Tree",
+          "titleSlug": "serialize-and-deserialize-binary-tree",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Design",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "14 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/String/Serialize and Deserialize Binary Tree/"
+            }
+          }
+        },
+        "expression-add-operators": {
+          "questionId": "282",
+          "title": "Expression Add Operators",
+          "titleSlug": "expression-add-operators",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "88 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Math/Expression Add Operators/"
+            }
+          }
+        },
+        "integer-to-english-words": {
+          "questionId": "273",
+          "title": "Integer to English Words",
+          "titleSlug": "integer-to-english-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "2 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Math/Integer to English Words/"
+            }
+          }
+        },
+        "basic-calculator": {
+          "questionId": "224",
+          "title": "Basic Calculator",
+          "titleSlug": "basic-calculator",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "7 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Math/Basic Calculator/"
+            }
+          }
+        },
+        "shortest-palindrome": {
+          "questionId": "214",
+          "title": "Shortest Palindrome",
+          "titleSlug": "shortest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Rolling Hash",
+            "String Matching",
+            "Hash Function",
+            "Manacher",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "6 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Shortest Palindrome/"
+            }
+          }
+        },
+        "scramble-string": {
+          "questionId": "87",
+          "title": "Scramble String",
+          "titleSlug": "scramble-string",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "9 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/String/Scramble String/"
+            }
+          }
+        },
+        "distinct-subsequences": {
+          "questionId": "115",
+          "title": "Distinct Subsequences",
+          "titleSlug": "distinct-subsequences",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "15 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/Distinct Subsequences/"
+            }
+          }
+        },
+        "the-skyline-problem": {
+          "questionId": "218",
+          "title": "The Skyline Problem",
+          "titleSlug": "the-skyline-problem",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Sweep Line",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "234 ms",
+              "memory": "54 MB",
+              "githubPath": "LeetCode/Array/The Skyline Problem/"
+            }
+          }
+        },
+        "valid-number": {
+          "questionId": "65",
+          "title": "Valid Number",
+          "titleSlug": "valid-number",
+          "difficulty": "Hard",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "1 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/String/Valid Number/"
+            }
+          }
+        },
+        "word-search-ii": {
+          "questionId": "212",
+          "title": "Word Search II",
+          "titleSlug": "word-search-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "225 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Word Search II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iv": {
+          "questionId": "188",
+          "title": "Best Time to Buy and Sell Stock IV",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558218690,
+              "runtime": "12 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock IV/"
             }
           }
         }
