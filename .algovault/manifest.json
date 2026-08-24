@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:01:28.436Z",
+  "lastUpdated": "2026-08-24T08:01:35.364Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -324,9 +324,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558142697,
+              "syncedAt": 1787558495364,
               "runtime": "3 ms",
-              "memory": "48.6 MB",
+              "memory": "48.4 MB",
               "githubPath": "LeetCode/Array/Find the Degree of Each Vertex/"
             }
           }
@@ -342,7 +342,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558488436,
+              "syncedAt": 1787558142697,
               "runtime": "32 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Substrings With Distinct Start/"
