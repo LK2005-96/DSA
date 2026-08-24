@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558291403" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558295819" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -87,6 +87,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
@@ -113,6 +114,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 710 | [Random Pick with Blacklist](./Array/Random%20Pick%20with%20Blacklist/) | Hard |
 | 719 | [Find K-th Smallest Pair Distance](./Array/Find%20K-th%20Smallest%20Pair%20Distance/) | Hard |
+| 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 731 | [My Calendar II](./Array/My%20Calendar%20II/) | Medium |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
@@ -214,6 +216,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
