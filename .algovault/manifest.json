@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:03:04.157Z",
+  "lastUpdated": "2026-08-24T08:03:16.254Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -168,7 +168,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558136079,
+              "syncedAt": 1787558596254,
               "runtime": "1 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -186,9 +186,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558584157,
-              "runtime": "5 ms",
-              "memory": "44.9 MB",
+              "syncedAt": 1787558136079,
+              "runtime": "2 ms",
+              "memory": "44.5 MB",
               "githubPath": "LeetCode/String/Simplify Path/"
             }
           }
