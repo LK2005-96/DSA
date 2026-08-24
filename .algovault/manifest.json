@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:55:36.079Z",
+  "lastUpdated": "2026-08-24T07:55:39.884Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -190,6 +190,24 @@
               "runtime": "2 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "123456class solution {public:    vector<int> twosum(vector<int>& nums, int target) {            }};": {
+              "syncedAt": 1787558139884,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
         }
