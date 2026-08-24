@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:23.524Z",
+  "lastUpdated": "2026-08-24T07:56:28.288Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1658,6 +1658,141 @@
               "runtime": "5 ms",
               "memory": "77.6 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "count-number-of-nice-subarrays": {
+          "questionId": "1248",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "13 ms",
+              "memory": "59.8 MB",
+              "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "2 ms",
+              "memory": "61.7 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "longest-mountain-in-array": {
+          "questionId": "845",
+          "title": "Longest Mountain in Array",
+          "titleSlug": "longest-mountain-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "2 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Longest Mountain in Array/"
+            }
+          }
+        },
+        "rearrange-array-elements-by-sign": {
+          "questionId": "2149",
+          "title": "Rearrange Array Elements by Sign",
+          "titleSlug": "rearrange-array-elements-by-sign",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "4 ms",
+              "memory": "175.5 MB",
+              "githubPath": "LeetCode/Array/Rearrange Array Elements by Sign/"
+            }
+          }
+        },
+        "partition-array-according-to-given-pivot": {
+          "questionId": "2161",
+          "title": "Partition Array According to Given Pivot",
+          "titleSlug": "partition-array-according-to-given-pivot",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "5 ms",
+              "memory": "160.1 MB",
+              "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
+            }
+          }
+        },
+        "removing-stars-from-a-string": {
+          "questionId": "2390",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "63 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558188288,
+              "runtime": "25 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
             }
           }
         }

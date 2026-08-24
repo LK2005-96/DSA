@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558183525" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558188289" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -37,15 +37,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 654 | [Maximum Binary Tree](./Array/Maximum%20Binary%20Tree/) | Medium |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
+| 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1052 | [Grumpy Bookstore Owner](./Array/Grumpy%20Bookstore%20Owner/) | Medium |
+| 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
+| 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1472 | [Design Browser History](./Array/Design%20Browser%20History/) | Medium |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
+| 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./Array/Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) | Hard |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./Array/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/) | Easy |
 | 3513 | [Number of Unique XOR Triplets I](./Array/Number%20of%20Unique%20XOR%20Triplets%20I/) | Medium |
@@ -171,6 +176,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 1021 | [Remove Outermost Parentheses](./String/Remove%20Outermost%20Parentheses/) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 3499 | [Maximize Active Section with Trade I](./String/Maximize%20Active%20Section%20with%20Trade%20I/) | Medium |
 
 </details>
