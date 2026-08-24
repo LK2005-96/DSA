@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:01:35.364Z",
+  "lastUpdated": "2026-08-24T08:01:58.556Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -305,7 +305,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558142697,
+              "syncedAt": 1787558518556,
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Linked List/Insert Greatest Common Divisors in Linked List/"
