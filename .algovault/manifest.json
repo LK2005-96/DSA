@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:14.421Z",
+  "lastUpdated": "2026-08-24T07:56:18.159Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -193,6 +193,430 @@
             }
           }
         },
+        "maximum-binary-tree": {
+          "questionId": "654",
+          "title": "Maximum Binary Tree",
+          "titleSlug": "maximum-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Stack",
+            "Tree",
+            "Monotonic Stack",
+            "Binary Tree",
+            "Cartesian Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "2 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Binary Tree/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "remove-outermost-parentheses": {
+          "questionId": "1021",
+          "title": "Remove Outermost Parentheses",
+          "titleSlug": "remove-outermost-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "2 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
+            }
+          }
+        },
+        "implement-stack-using-queues": {
+          "questionId": "225",
+          "title": "Implement Stack using Queues",
+          "titleSlug": "implement-stack-using-queues",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
+            }
+          }
+        },
+        "letter-tile-possibilities": {
+          "questionId": "1079",
+          "title": "Letter Tile Possibilities",
+          "titleSlug": "letter-tile-possibilities",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "9 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
+            }
+          }
+        },
+        "insert-greatest-common-divisors-in-linked-list": {
+          "questionId": "2807",
+          "title": "Insert Greatest Common Divisors in Linked List",
+          "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Linked List/Insert Greatest Common Divisors in Linked List/"
+            }
+          }
+        },
+        "find-the-degree-of-each-vertex": {
+          "questionId": "3898",
+          "title": "Find the Degree of Each Vertex",
+          "titleSlug": "find-the-degree-of-each-vertex",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Graph Theory",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "3 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Array/Find the Degree of Each Vertex/"
+            }
+          }
+        },
+        "maximum-substrings-with-distinct-start": {
+          "questionId": "3760",
+          "title": "Maximum Substrings With Distinct Start",
+          "titleSlug": "maximum-substrings-with-distinct-start",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "32 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Hash Table/Maximum Substrings With Distinct Start/"
+            }
+          }
+        },
+        "minimum-operations-to-make-array-sum-divisible-by-k": {
+          "questionId": "3512",
+          "title": "Minimum Operations to Make Array Sum Divisible by K",
+          "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558142697,
+              "runtime": "4 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "non-overlapping-intervals": {
+          "questionId": "435",
+          "title": "Non-overlapping Intervals",
+          "titleSlug": "non-overlapping-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "46 ms",
+              "memory": "115.5 MB",
+              "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
+            }
+          }
+        },
+        "remove-linked-list-elements": {
+          "questionId": "203",
+          "title": "Remove Linked List Elements",
+          "titleSlug": "remove-linked-list-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "1 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Linked List/Remove Linked List Elements/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "195 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "path-sum": {
+          "questionId": "112",
+          "title": "Path Sum",
+          "titleSlug": "path-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "smallest-palindromic-rearrangement-ii": {
+          "questionId": "3518",
+          "title": "Smallest Palindromic Rearrangement II",
+          "titleSlug": "smallest-palindromic-rearrangement-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Combinatorics",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "230 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "15 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "maximum-product-of-two-digits": {
+          "questionId": "3536",
+          "title": "Maximum Product of Two Digits",
+          "titleSlug": "maximum-product-of-two-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-ii": {
+          "questionId": "3514",
+          "title": "Number of Unique XOR Triplets II",
+          "titleSlug": "number-of-unique-xor-triplets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "210 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets II/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-i": {
+          "questionId": "3513",
+          "title": "Number of Unique XOR Triplets I",
+          "titleSlug": "number-of-unique-xor-triplets-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "125.4 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets I/"
+            }
+          }
+        },
         "maximize-active-section-with-trade-i": {
           "questionId": "3499",
           "title": "Maximize Active Section with Trade I",
@@ -204,10 +628,889 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558174421,
+              "syncedAt": 1787558150801,
               "runtime": "99 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Maximize Active Section with Trade I/"
+            }
+          }
+        },
+        "find-the-number-of-subsequences-with-equal-gcd": {
+          "questionId": "3336",
+          "title": "Find the Number of Subsequences With Equal GCD",
+          "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Number Theory",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "2824 ms",
+              "memory": "110.7 MB",
+              "githubPath": "LeetCode/Array/Find the Number of Subsequences With Equal GCD/"
+            }
+          }
+        },
+        "sequential-digits": {
+          "questionId": "1291",
+          "title": "Sequential Digits",
+          "titleSlug": "sequential-digits",
+          "difficulty": "Medium",
+          "tags": [
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Enumeration/Sequential Digits/"
+            }
+          }
+        },
+        "rank-transform-of-an-array": {
+          "questionId": "1331",
+          "title": "Rank Transform of an Array",
+          "titleSlug": "rank-transform-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "28 ms",
+              "memory": "69.7 MB",
+              "githubPath": "LeetCode/Array/Rank Transform of an Array/"
+            }
+          }
+        },
+        "count-the-number-of-complete-components": {
+          "questionId": "2685",
+          "title": "Count the Number of Complete Components",
+          "titleSlug": "count-the-number-of-complete-components",
+          "difficulty": "Medium",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "12 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Depth-First Search/Count the Number of Complete Components/"
+            }
+          }
+        },
+        "sum-of-nodes-with-even-valued-grandparent": {
+          "questionId": "1315",
+          "title": "Sum of Nodes with Even-Valued Grandparent",
+          "titleSlug": "sum-of-nodes-with-even-valued-grandparent",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "1 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Tree/Sum of Nodes with Even-Valued Grandparent/"
+            }
+          }
+        },
+        "reverse-odd-levels-of-binary-tree": {
+          "questionId": "2415",
+          "title": "Reverse Odd Levels of Binary Tree",
+          "titleSlug": "reverse-odd-levels-of-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "1 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Tree/Reverse Odd Levels of Binary Tree/"
+            }
+          }
+        },
+        "students-and-examinations": {
+          "questionId": "1280",
+          "title": "Students and Examinations",
+          "titleSlug": "students-and-examinations",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "1148 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Students and Examinations/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "534 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "406 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "69 ms",
+              "memory": "78.4 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "9 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558158879,
+              "runtime": "4 ms",
+              "memory": "52.3 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "customer-placing-the-largest-number-of-orders": {
+          "questionId": "586",
+          "title": "Customer Placing the Largest Number of Orders",
+          "titleSlug": "customer-placing-the-largest-number-of-orders",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "1636 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "421 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558158879,
+              "runtime": "528 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558165397,
+              "runtime": "431 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165397,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "split-linked-list-in-parts": {
+          "questionId": "725",
+          "title": "Split Linked List in Parts",
+          "titleSlug": "split-linked-list-in-parts",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165397,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Linked List/Split Linked List in Parts/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558165398,
+              "runtime": "766 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558165398,
+              "runtime": "529 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558165398,
+              "runtime": "314 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "permutations": {
+          "questionId": "46",
+          "title": "Permutations",
+          "titleSlug": "permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165398,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165398,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165398,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "invert-binary-tree": {
+          "questionId": "226",
+          "title": "Invert Binary Tree",
+          "titleSlug": "invert-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165398,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Tree/Invert Binary Tree/"
+            }
+          }
+        },
+        "diameter-of-binary-tree": {
+          "questionId": "543",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558165398,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "minimum-depth-of-binary-tree": {
+          "questionId": "111",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "4 ms",
+              "memory": "82.1 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "22 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "11 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "6 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "2 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "1 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787558171975,
+              "runtime": "438 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "angle-between-hands-of-a-clock": {
+          "questionId": "1344",
+          "title": "Angle Between Hands of a Clock",
+          "titleSlug": "angle-between-hands-of-a-clock",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "0 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Math/Angle Between Hands of a Clock/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "167 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558171975,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178158,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "design-browser-history": {
+          "questionId": "1472",
+          "title": "Design Browser History",
+          "titleSlug": "design-browser-history",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Linked List",
+            "Stack",
+            "Design",
+            "Doubly-Linked List",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178158,
+              "runtime": "49 ms",
+              "memory": "52.3 MB",
+              "githubPath": "LeetCode/Array/Design Browser History/"
+            }
+          }
+        },
+        "palindrome-linked-list": {
+          "questionId": "234",
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178158,
+              "runtime": "3 ms",
+              "memory": "94.3 MB",
+              "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178158,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "delete-node-in-a-linked-list": {
+          "questionId": "237",
+          "title": "Delete Node in a Linked List",
+          "titleSlug": "delete-node-in-a-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178158,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178158,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178159,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting",
+            "Quicksort",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178159,
+              "runtime": "5 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "daily-temperatures": {
+          "questionId": "739",
+          "title": "Daily Temperatures",
+          "titleSlug": "daily-temperatures",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178159,
+              "runtime": "61 ms",
+              "memory": "107.5 MB",
+              "githubPath": "LeetCode/Array/Daily Temperatures/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558178159,
+              "runtime": "1 ms",
+              "memory": "62 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             }
           }
         }
