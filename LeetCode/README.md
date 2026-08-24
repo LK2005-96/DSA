@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558158879" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558165399" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 46 | [Permutations](./Array/Permutations/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
@@ -49,10 +51,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
+| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
+| 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 
 </details>
 
@@ -100,6 +106,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
+| 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
+| 725 | [Split Linked List in Parts](./Linked%20List/Split%20Linked%20List%20in%20Parts/) | Medium |
 | 2807 | [Insert Greatest Common Divisors in Linked List](./Linked%20List/Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/) | Medium |
 
 </details>
@@ -123,6 +131,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 225 | [Implement Stack using Queues](./Stack/Implement%20Stack%20using%20Queues/) | Easy |
 
 </details>
@@ -151,6 +160,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
+| 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
+| 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](./Tree/Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/) | Medium |
 | 2415 | [Reverse Odd Levels of Binary Tree](./Tree/Reverse%20Odd%20Levels%20of%20Binary%20Tree/) | Medium |
 
