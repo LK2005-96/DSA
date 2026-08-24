@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:04:48.665Z",
+  "lastUpdated": "2026-08-24T09:55:38.309Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5418,6 +5418,23 @@
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "unknown-problem": {
+          "questionId": "",
+          "title": "Stone Game VIII",
+          "titleSlug": "unknown-problem",
+          "difficulty": "Medium",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1787565338308,
+              "runtime": "103 ms",
+              "memory": "87.07 MB",
+              "githubPath": "LeetCode/General/Stone Game VIII/"
             }
           }
         }
