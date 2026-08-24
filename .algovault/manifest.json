@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:55:42.697Z",
+  "lastUpdated": "2026-08-24T07:55:50.801Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -381,6 +381,296 @@
               "runtime": "4 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "non-overlapping-intervals": {
+          "questionId": "435",
+          "title": "Non-overlapping Intervals",
+          "titleSlug": "non-overlapping-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "46 ms",
+              "memory": "115.5 MB",
+              "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
+            }
+          }
+        },
+        "remove-linked-list-elements": {
+          "questionId": "203",
+          "title": "Remove Linked List Elements",
+          "titleSlug": "remove-linked-list-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "1 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Linked List/Remove Linked List Elements/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "195 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "path-sum": {
+          "questionId": "112",
+          "title": "Path Sum",
+          "titleSlug": "path-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "smallest-palindromic-rearrangement-ii": {
+          "questionId": "3518",
+          "title": "Smallest Palindromic Rearrangement II",
+          "titleSlug": "smallest-palindromic-rearrangement-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Combinatorics",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "230 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "15 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "maximum-product-of-two-digits": {
+          "questionId": "3536",
+          "title": "Maximum Product of Two Digits",
+          "titleSlug": "maximum-product-of-two-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-ii": {
+          "questionId": "3514",
+          "title": "Number of Unique XOR Triplets II",
+          "titleSlug": "number-of-unique-xor-triplets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "210 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets II/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-i": {
+          "questionId": "3513",
+          "title": "Number of Unique XOR Triplets I",
+          "titleSlug": "number-of-unique-xor-triplets-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "125.4 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets I/"
+            }
+          }
+        },
+        "maximize-active-section-with-trade-i": {
+          "questionId": "3499",
+          "title": "Maximize Active Section with Trade I",
+          "titleSlug": "maximize-active-section-with-trade-i",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "99 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/String/Maximize Active Section with Trade I/"
+            }
+          }
+        },
+        "find-the-number-of-subsequences-with-equal-gcd": {
+          "questionId": "3336",
+          "title": "Find the Number of Subsequences With Equal GCD",
+          "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Number Theory",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "2824 ms",
+              "memory": "110.7 MB",
+              "githubPath": "LeetCode/Array/Find the Number of Subsequences With Equal GCD/"
+            }
+          }
+        },
+        "sequential-digits": {
+          "questionId": "1291",
+          "title": "Sequential Digits",
+          "titleSlug": "sequential-digits",
+          "difficulty": "Medium",
+          "tags": [
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558150801,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Enumeration/Sequential Digits/"
             }
           }
         }
