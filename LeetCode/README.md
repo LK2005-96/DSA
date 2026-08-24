@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558200782" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558209874" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,6 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
@@ -27,20 +28,30 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/) | Hard |
+| 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
 | 435 | [Non-overlapping Intervals](./Array/Non-overlapping%20Intervals/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 581 | [Shortest Unsorted Continuous Subarray](./Array/Shortest%20Unsorted%20Continuous%20Subarray/) | Medium |
+| 587 | [Erect the Fence](./Array/Erect%20the%20Fence/) | Hard |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
+| 632 | [Smallest Range Covering Elements from K Lists](./Array/Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/) | Hard |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 654 | [Maximum Binary Tree](./Array/Maximum%20Binary%20Tree/) | Medium |
+| 679 | [24 Game](./Array/24%20Game/) | Hard |
+| 710 | [Random Pick with Blacklist](./Array/Random%20Pick%20with%20Blacklist/) | Hard |
+| 719 | [Find K-th Smallest Pair Distance](./Array/Find%20K-th%20Smallest%20Pair%20Distance/) | Hard |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 857 | [Minimum Cost to Hire K Workers](./Array/Minimum%20Cost%20to%20Hire%20K%20Workers/) | Hard |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
@@ -123,6 +134,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
+| 726 | [Number of Atoms](./Hash%20Table/Number%20of%20Atoms/) | Hard |
+| 770 | [Basic Calculator IV](./Hash%20Table/Basic%20Calculator%20IV/) | Hard |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 | 3760 | [Maximum Substrings With Distinct Start](./Hash%20Table/Maximum%20Substrings%20With%20Distinct%20Start/) | Medium |
@@ -159,6 +172,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
+| 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
+| 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
+| 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 

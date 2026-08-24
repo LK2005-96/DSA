@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:40.780Z",
+  "lastUpdated": "2026-08-24T07:56:49.873Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2118,6 +2118,341 @@
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "minimum-cost-to-hire-k-workers": {
+          "questionId": "857",
+          "title": "Minimum Cost to Hire K Workers",
+          "titleSlug": "minimum-cost-to-hire-k-workers",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "35 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Minimum Cost to Hire K Workers/"
+            }
+          }
+        },
+        "number-of-atoms": {
+          "questionId": "726",
+          "title": "Number of Atoms",
+          "titleSlug": "number-of-atoms",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Stack",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "4 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Hash Table/Number of Atoms/"
+            }
+          }
+        },
+        "find-k-th-smallest-pair-distance": {
+          "questionId": "719",
+          "title": "Find K-th Smallest Pair Distance",
+          "titleSlug": "find-k-th-smallest-pair-distance",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "10 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Find K-th Smallest Pair Distance/"
+            }
+          }
+        },
+        "smallest-range-covering-elements-from-k-lists": {
+          "questionId": "632",
+          "title": "Smallest Range Covering Elements from K Lists",
+          "titleSlug": "smallest-range-covering-elements-from-k-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Greedy",
+            "Sliding Window",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "92 ms",
+              "memory": "85.9 MB",
+              "githubPath": "LeetCode/Array/Smallest Range Covering Elements from K Lists/"
+            }
+          }
+        },
+        "basic-calculator-iv": {
+          "questionId": "770",
+          "title": "Basic Calculator IV",
+          "titleSlug": "basic-calculator-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209872,
+              "runtime": "8 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Basic Calculator IV/"
+            }
+          }
+        },
+        "random-pick-with-blacklist": {
+          "questionId": "710",
+          "title": "Random Pick with Blacklist",
+          "titleSlug": "random-pick-with-blacklist",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Sorting",
+            "Randomized"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "45 ms",
+              "memory": "68.1 MB",
+              "githubPath": "LeetCode/Array/Random Pick with Blacklist/"
+            }
+          }
+        },
+        "24-game": {
+          "questionId": "679",
+          "title": "24 Game",
+          "titleSlug": "24-game",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "6 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/24 Game/"
+            }
+          }
+        },
+        "erect-the-fence": {
+          "questionId": "587",
+          "title": "Erect the Fence",
+          "titleSlug": "erect-the-fence",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Convex Hull",
+            "Polygons"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "26 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Erect the Fence/"
+            }
+          }
+        },
+        "find-the-closest-palindrome": {
+          "questionId": "564",
+          "title": "Find the Closest Palindrome",
+          "titleSlug": "find-the-closest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "2 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Math/Find the Closest Palindrome/"
+            }
+          }
+        },
+        "smallest-good-base": {
+          "questionId": "483",
+          "title": "Smallest Good Base",
+          "titleSlug": "smallest-good-base",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Smallest Good Base/"
+            }
+          }
+        },
+        "largest-palindrome-product": {
+          "questionId": "479",
+          "title": "Largest Palindrome Product",
+          "titleSlug": "largest-palindrome-product",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Largest Palindrome Product/"
+            }
+          }
+        },
+        "poor-pigs": {
+          "questionId": "458",
+          "title": "Poor Pigs",
+          "titleSlug": "poor-pigs",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Poor Pigs/"
+            }
+          }
+        },
+        "perfect-rectangle": {
+          "questionId": "391",
+          "title": "Perfect Rectangle",
+          "titleSlug": "perfect-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Sweep Line"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "13 ms",
+              "memory": "57.6 MB",
+              "githubPath": "LeetCode/Array/Perfect Rectangle/"
+            }
+          }
+        },
+        "insert-delete-getrandom-o1-duplicates-allowed": {
+          "questionId": "381",
+          "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+          "titleSlug": "insert-delete-getrandom-o1-duplicates-allowed",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Design",
+            "Randomized"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "29 ms",
+              "memory": "99.4 MB",
+              "githubPath": "LeetCode/Array/Insert Delete GetRandom O(1) - Duplicates allowed/"
+            }
+          }
+        },
+        "self-crossing": {
+          "questionId": "335",
+          "title": "Self Crossing",
+          "titleSlug": "self-crossing",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558209873,
+              "runtime": "2 ms",
+              "memory": "59.3 MB",
+              "githubPath": "LeetCode/Array/Self Crossing/"
             }
           }
         }
