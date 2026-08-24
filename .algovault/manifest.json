@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:18.159Z",
+  "lastUpdated": "2026-08-24T07:56:23.524Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1511,6 +1511,153 @@
               "runtime": "1 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "3 ms",
+              "memory": "69.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "2 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
+            }
+          }
+        },
+        "fruit-into-baskets": {
+          "questionId": "904",
+          "title": "Fruit Into Baskets",
+          "titleSlug": "fruit-into-baskets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "55 ms",
+              "memory": "70.8 MB",
+              "githubPath": "LeetCode/Array/Fruit Into Baskets/"
+            }
+          }
+        },
+        "grumpy-bookstore-owner": {
+          "questionId": "1052",
+          "title": "Grumpy Bookstore Owner",
+          "titleSlug": "grumpy-bookstore-owner",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "197 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Array/Grumpy Bookstore Owner/"
+            }
+          }
+        },
+        "maximum-total-subarray-value-i": {
+          "questionId": "3689",
+          "title": "Maximum Total Subarray Value I",
+          "titleSlug": "maximum-total-subarray-value-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "1 ms",
+              "memory": "62.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Total Subarray Value I/"
+            }
+          }
+        },
+        "subarray-sums-divisible-by-k": {
+          "questionId": "974",
+          "title": "Subarray Sums Divisible by K",
+          "titleSlug": "subarray-sums-divisible-by-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "22 ms",
+              "memory": "54.5 MB",
+              "githubPath": "LeetCode/Array/Subarray Sums Divisible by K/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558183524,
+              "runtime": "5 ms",
+              "memory": "77.6 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
         }
