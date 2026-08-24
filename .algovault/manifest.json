@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:58:59.688Z",
+  "lastUpdated": "2026-08-24T07:59:13.211Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -519,7 +519,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558150801,
+              "syncedAt": 1787558353211,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -565,7 +565,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558339688,
+              "syncedAt": 1787558150801,
               "runtime": "15 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
