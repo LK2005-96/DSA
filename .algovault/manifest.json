@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:57:38.501Z",
+  "lastUpdated": "2026-08-24T07:57:43.328Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1058,6 +1058,12 @@
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            },
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "0 ms",
+              "memory": "12.6 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
             }
           }
         },
@@ -1439,6 +1445,12 @@
               "syncedAt": 1787558178158,
               "runtime": "0 ms",
               "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            },
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "45 ms",
+              "memory": "19.7 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
             }
           }
@@ -4199,6 +4211,180 @@
               "runtime": "0 ms",
               "memory": "12.6 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558263327,
+              "runtime": "89 ms",
+              "memory": "20.1 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            },
+            "java": {
+              "syncedAt": 1787558263327,
+              "runtime": "13 ms",
+              "memory": "58.2 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558263327,
+              "runtime": "0 ms",
+              "memory": "12.9 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            },
+            "java": {
+              "syncedAt": 1787558263327,
+              "runtime": "37 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "16 ms",
+              "memory": "12.4 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            },
+            "java": {
+              "syncedAt": 1787558263328,
+              "runtime": "4 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558263328,
+              "runtime": "6 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            },
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "18 ms",
+              "memory": "16 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "1 ms",
+              "memory": "12.4 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            },
+            "java": {
+              "syncedAt": 1787558263328,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "0 ms",
+              "memory": "12.4 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            },
+            "java": {
+              "syncedAt": 1787558263328,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558263328,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            },
+            "python": {
+              "syncedAt": 1787558263328,
+              "runtime": "0 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
             }
           }
         }

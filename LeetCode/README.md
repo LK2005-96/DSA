@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558258503" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558263331" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
@@ -30,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
@@ -69,6 +71,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 212 | [Word Search II](./Array/Word%20Search%20II/) | Hard |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 220 | [Contains Duplicate III](./Array/Contains%20Duplicate%20III/) | Hard |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
@@ -197,6 +200,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
@@ -243,6 +247,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
+| 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
@@ -270,6 +276,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 | 225 | [Implement Stack using Queues](./Stack/Implement%20Stack%20using%20Queues/) | Easy |
 
 </details>
