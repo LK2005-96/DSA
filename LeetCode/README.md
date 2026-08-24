@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558268482" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558274016" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -50,6 +50,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
@@ -249,6 +250,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
@@ -277,6 +281,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 | 225 | [Implement Stack using Queues](./Stack/Implement%20Stack%20using%20Queues/) | Easy |
@@ -319,6 +324,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
 | 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
