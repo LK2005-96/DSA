@@ -1,32 +1,18 @@
 class Solution {
     public String simplifyPath(String path) {
-        int n = path.length();
-        String[] stack = new String[n];
-        int top = 0;
-        int i = 0;
-        while (i < n) {
-            while (i < n && path.charAt(i) == '/') {
-                i++;
-            }
-            if (i >= n) break;
-            int start = i;
-            while (i < n && path.charAt(i) != '/') {
-                i++;
-            }
-            int len = i - start;
-            if (len == 1 && path.charAt(start) == '.') {
+        Stack<String> stack = new Stack<>(); // create a stack to keep track of directories
+        String[] directories = path.split("/"); // split the path by slash '/'
+        for (String dir : directories) { // iterate over the directories
+            if (dir.equals(".") || dir.isEmpty()) { // ignore the current directory '.' and empty directories
                 continue;
-            } else if (len == 2 && path.charAt(start) == '.' && path.charAt(start + 1) == '.') {
-                if (top > 0) top--;
-            } else {
-                stack[top++] = path.substring(start, i);
+            } else if (dir.equals("..")) { // go one level up for double period '..'
+                if (!stack.isEmpty()) { // if stack is not empty, pop the top element
+                    stack.pop();
+                }
+            } else { // for any other directory, push it to the stack
+                stack.push(dir);
             }
         }
-        if (top == 0) return "/";
-        StringBuilder sb = new StringBuilder();
-        for (int j = 0; j < top; j++) {
-            sb.append('/').append(stack[j]);
-        }
-        return sb.toString();
+        return "/" + String.join("/", stack); // join the directories in the stack with slash '/' and add a slash at the beginning
     }
 }
