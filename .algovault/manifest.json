@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:57:43.328Z",
+  "lastUpdated": "2026-08-24T07:57:48.481Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -497,6 +497,12 @@
               "runtime": "0 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
+            },
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "1 ms",
+              "memory": "14.3 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
             }
           }
         },
@@ -516,6 +522,12 @@
               "syncedAt": 1787558150801,
               "runtime": "0 ms",
               "memory": "47 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            },
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "0 ms",
+              "memory": "15.1 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
             }
           }
@@ -1160,6 +1172,12 @@
               "syncedAt": 1787558171975,
               "runtime": "4 ms",
               "memory": "82.1 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+            },
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "58 ms",
+              "memory": "91.2 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
             }
           }
@@ -2177,6 +2195,12 @@
               "syncedAt": 1787558209872,
               "runtime": "0 ms",
               "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            },
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "0 ms",
+              "memory": "12.5 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle/"
             }
           }
@@ -4385,6 +4409,102 @@
               "runtime": "0 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "pascals-triangle-ii": {
+          "questionId": "119",
+          "title": "Pascal's Triangle II",
+          "titleSlug": "pascals-triangle-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558268481,
+              "runtime": "1 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            },
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "3 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            }
+          }
+        },
+        "balanced-binary-tree": {
+          "questionId": "110",
+          "title": "Balanced Binary Tree",
+          "titleSlug": "balanced-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558268481,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
+            },
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "4 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
+            }
+          }
+        },
+        "convert-sorted-array-to-binary-search-tree": {
+          "questionId": "108",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558268481,
+              "runtime": "4 ms",
+              "memory": "15.3 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            },
+            "java": {
+              "syncedAt": 1787558268481,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            }
+          }
+        },
+        "symmetric-tree": {
+          "questionId": "101",
+          "title": "Symmetric Tree",
+          "titleSlug": "symmetric-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558268481,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Tree/Symmetric Tree/"
             }
           }
         }

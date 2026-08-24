@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558263331" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558268482" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -52,7 +52,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
 | 120 | [Triangle](./Array/Triangle/) | Medium |
 | 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 123 | [Best Time to Buy and Sell Stock III](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/) | Hard |
@@ -317,8 +319,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
 | 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
