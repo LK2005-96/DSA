@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:57:24.881Z",
+  "lastUpdated": "2026-08-24T07:57:25.425Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -591,7 +591,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558244881,
+              "syncedAt": 1787558150801,
               "runtime": "210 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Number of Unique XOR Triplets II/"
@@ -3557,6 +3557,254 @@
               "runtime": "1 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "sudoku-solver": {
+          "questionId": "37",
+          "title": "Sudoku Solver",
+          "titleSlug": "sudoku-solver",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Matrix",
+            "Algorithm X",
+            "Dancing Links"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558245424,
+              "runtime": "116 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Array/Sudoku Solver/"
+            }
+          }
+        },
+        "string-matching-in-an-array": {
+          "questionId": "1408",
+          "title": "String Matching in an Array",
+          "titleSlug": "string-matching-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558245424,
+              "runtime": "5 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Array/String Matching in an Array/"
+            },
+            "java": {
+              "syncedAt": 1787558245424,
+              "runtime": "3 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Array/String Matching in an Array/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558245424,
+              "runtime": "0 ms",
+              "memory": "12.6 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            },
+            "java": {
+              "syncedAt": 1787558245424,
+              "runtime": "74 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "my-calendar-ii": {
+          "questionId": "731",
+          "title": "My Calendar II",
+          "titleSlug": "my-calendar-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Design",
+            "Segment Tree",
+            "Prefix Sum",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558245424,
+              "runtime": "973 ms",
+              "memory": "13 MB",
+              "githubPath": "LeetCode/Array/My Calendar II/"
+            },
+            "java": {
+              "syncedAt": 1787558245424,
+              "runtime": "52 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/My Calendar II/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558245424,
+              "runtime": "0 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            },
+            "python": {
+              "syncedAt": 1787558245424,
+              "runtime": "0 ms",
+              "memory": "13.3 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        },
+        "count-complete-tree-nodes": {
+          "questionId": "222",
+          "title": "Count Complete Tree Nodes",
+          "titleSlug": "count-complete-tree-nodes",
+          "difficulty": "Medium",
+          "tags": [
+            "Binary Search",
+            "Bit Manipulation",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558245424,
+              "runtime": "15 ms",
+              "memory": "28.1 MB",
+              "githubPath": "LeetCode/Binary Search/Count Complete Tree Nodes/"
+            },
+            "java": {
+              "syncedAt": 1787558245425,
+              "runtime": "0 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Binary Search/Count Complete Tree Nodes/"
+            }
+          }
+        },
+        "smallest-range-i": {
+          "questionId": "908",
+          "title": "Smallest Range I",
+          "titleSlug": "smallest-range-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558245425,
+              "runtime": "3 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Smallest Range I/"
+            },
+            "python": {
+              "syncedAt": 1787558245425,
+              "runtime": "0 ms",
+              "memory": "13.4 MB",
+              "githubPath": "LeetCode/Array/Smallest Range I/"
+            }
+          }
+        },
+        "stone-game": {
+          "questionId": "877",
+          "title": "Stone Game",
+          "titleSlug": "stone-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558245425,
+              "runtime": "0 ms",
+              "memory": "12.5 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
+            },
+            "java": {
+              "syncedAt": 1787558245425,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
+            }
+          }
+        },
+        "largest-triangle-area": {
+          "questionId": "812",
+          "title": "Largest Triangle Area",
+          "titleSlug": "largest-triangle-area",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Polygons"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558245425,
+              "runtime": "69 ms",
+              "memory": "12.3 MB",
+              "githubPath": "LeetCode/Array/Largest Triangle Area/"
+            },
+            "java": {
+              "syncedAt": 1787558245425,
+              "runtime": "8 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Largest Triangle Area/"
+            }
+          }
+        },
+        "prime-number-of-set-bits-in-binary-representation": {
+          "questionId": "762",
+          "title": "Prime Number of Set Bits in Binary Representation",
+          "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Primality Test"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558245425,
+              "runtime": "27 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
             }
           }
         }
