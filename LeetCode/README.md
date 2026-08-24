@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558304776" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787558309010" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -225,6 +225,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
+| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
@@ -273,6 +274,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
@@ -281,8 +283,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
+| 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
@@ -293,6 +298,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:58:24.774Z",
+  "lastUpdated": "2026-08-24T07:58:29.007Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5310,6 +5310,114 @@
               "runtime": "3 ms",
               "memory": "55.5 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558309006,
+              "runtime": "1 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "subtract-the-product-and-sum-of-digits-of-an-integer": {
+          "questionId": "1281",
+          "title": "Subtract the Product and Sum of Digits of an Integer",
+          "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558309007,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558309007,
+              "runtime": "8 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558309007,
+              "runtime": "5 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558309007,
+              "runtime": "0 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558309007,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
             }
           }
         }
