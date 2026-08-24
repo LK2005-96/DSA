@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:58.690Z",
+  "lastUpdated": "2026-08-24T07:57:06.588Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2775,6 +2775,283 @@
               "runtime": "12 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock IV/"
+            }
+          }
+        },
+        "wildcard-matching": {
+          "questionId": "44",
+          "title": "Wildcard Matching",
+          "titleSlug": "wildcard-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Greedy",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "38 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/String/Wildcard Matching/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "5 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "substring-with-concatenation-of-all-words": {
+          "questionId": "30",
+          "title": "Substring with Concatenation of All Words",
+          "titleSlug": "substring-with-concatenation-of-all-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "1384 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
+            }
+          }
+        },
+        "dungeon-game": {
+          "questionId": "174",
+          "title": "Dungeon Game",
+          "titleSlug": "dungeon-game",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Dungeon Game/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array-ii": {
+          "questionId": "154",
+          "title": "Find Minimum in Rotated Sorted Array II",
+          "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
+            }
+          }
+        },
+        "evaluate-reverse-polish-notation": {
+          "questionId": "150",
+          "title": "Evaluate Reverse Polish Notation",
+          "titleSlug": "evaluate-reverse-polish-notation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "6 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
+            }
+          }
+        },
+        "max-points-on-a-line": {
+          "questionId": "149",
+          "title": "Max Points on a Line",
+          "titleSlug": "max-points-on-a-line",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "27 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Max Points on a Line/"
+            }
+          }
+        },
+        "word-break-ii": {
+          "questionId": "140",
+          "title": "Word Break II",
+          "titleSlug": "word-break-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Trie",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "4 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Word Break II/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization",
+            "Brute-Force Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "6 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "3 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "2 ms",
+              "memory": "119.6 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "surrounded-regions": {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558226588,
+              "runtime": "3 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Surrounded Regions/"
             }
           }
         }
