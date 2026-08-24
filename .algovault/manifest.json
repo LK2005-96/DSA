@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T09:59:36.181Z",
+  "lastUpdated": "2026-08-24T10:52:34.129Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5435,6 +5435,23 @@
               "runtime": "107 ms",
               "memory": "91.70 MB",
               "githubPath": "LeetCode/General/Stone Game VIII/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787568754128,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
             }
           }
         }
