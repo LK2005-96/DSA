@@ -1,0 +1,200 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-24T07:55:36.079Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "6 ms",
+              "memory": "67.1 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "how-many-numbers-are-smaller-than-the-current-number": {
+          "questionId": "1365",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "9 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
+            }
+          }
+        },
+        "set-mismatch": {
+          "questionId": "645",
+          "title": "Set Mismatch",
+          "titleSlug": "set-mismatch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "27 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Set Mismatch/"
+            }
+          }
+        },
+        "shortest-unsorted-continuous-subarray": {
+          "questionId": "581",
+          "title": "Shortest Unsorted Continuous Subarray",
+          "titleSlug": "shortest-unsorted-continuous-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack",
+            "Greedy",
+            "Sorting",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "13 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Shortest Unsorted Continuous Subarray/"
+            }
+          }
+        },
+        "next-greater-element-ii": {
+          "questionId": "503",
+          "title": "Next Greater Element II",
+          "titleSlug": "next-greater-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "1 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element II/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "0 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "2 ms",
+              "memory": "52.6 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "1 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558136079,
+              "runtime": "2 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        }
+      },
+      "username": "Lalith_Kishore_S_A"
+    }
+  }
+}
