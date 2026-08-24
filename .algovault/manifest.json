@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T07:56:33.042Z",
+  "lastUpdated": "2026-08-24T07:56:40.780Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1951,6 +1951,173 @@
               "runtime": "1 ms",
               "memory": "55.9 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1787558200779,
+              "runtime": "39 ms",
+              "memory": "31.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            },
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "1 ms",
+              "memory": "77.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787558200780,
+              "runtime": "125 ms",
+              "memory": "16 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            },
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "6 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1787558200780,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            },
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1787558200780,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            },
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1787558200780,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            },
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "6 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1787558200780,
+              "runtime": "7 ms",
+              "memory": "19.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            },
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "2 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787558200780,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
             }
           }
         }
