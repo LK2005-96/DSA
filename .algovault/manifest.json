@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:23:58.308Z",
+  "lastUpdated": "2026-08-25T10:28:22.119Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5616,9 +5616,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653438307,
-              "runtime": "32 ms",
-              "memory": "91.8 MB",
+              "syncedAt": 1787653702118,
+              "runtime": "2 ms",
+              "memory": "81.5 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
             }
           }
