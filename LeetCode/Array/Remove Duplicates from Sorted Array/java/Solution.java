@@ -6,16 +6,16 @@ class Solution {
         arr[0]=nums[0];
         for(int i=1;i<nums.length;i++)
         {
-            if(arr[prev]!=nums[i])
-            {  arr[index]=nums[i];
+            if(nums[prev]!=nums[i])
+            {  nums[index]=nums[i];
                 prev=index;
                index++;
             }
         }
-        for(int i=0;i<nums.length;i++)
-        {
-            nums[i]=arr[i];
-        }
+        // for(int i=0;i<nums.length;i++)
+        // {
+        //     nums[i]=arr[i];
+        // }
         System.out.print(Arrays.toString(arr));
         return prev+1;
     }
