@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:07:42.700Z",
+  "lastUpdated": "2026-08-25T10:08:28.652Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2025,9 +2025,9 @@
               "githubPath": "LeetCode/Array/Majority Element/"
             },
             "java": {
-              "syncedAt": 1787652462700,
-              "runtime": "21 ms",
-              "memory": "52.4 MB",
+              "syncedAt": 1787651062129,
+              "runtime": "1 ms",
+              "memory": "55.9 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
@@ -5289,7 +5289,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651210231,
+              "syncedAt": 1787652508651,
               "runtime": "0 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
