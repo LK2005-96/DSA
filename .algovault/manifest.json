@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T09:44:29.218Z",
+  "lastUpdated": "2026-08-25T09:44:43.411Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2198,7 +2198,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
@@ -2216,7 +2216,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "0 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Next Permutation/"
@@ -2234,7 +2234,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle/"
@@ -2260,7 +2260,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "35 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Minimum Cost to Hire K Workers/"
@@ -2280,7 +2280,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "4 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Hash Table/Number of Atoms/"
@@ -2300,7 +2300,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "10 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Find K-th Smallest Pair Distance/"
@@ -2322,7 +2322,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "92 ms",
               "memory": "85.9 MB",
               "githubPath": "LeetCode/Array/Smallest Range Covering Elements from K Lists/"
@@ -2343,7 +2343,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "8 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Hash Table/Basic Calculator IV/"
@@ -2365,7 +2365,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "45 ms",
               "memory": "68.1 MB",
               "githubPath": "LeetCode/Array/Random Pick with Blacklist/"
@@ -2384,7 +2384,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "6 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/24 Game/"
@@ -2405,7 +2405,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "26 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Erect the Fence/"
@@ -2423,7 +2423,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "2 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Math/Find the Closest Palindrome/"
@@ -2441,7 +2441,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Smallest Good Base/"
@@ -2459,7 +2459,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Largest Palindrome Product/"
@@ -2478,7 +2478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Poor Pigs/"
@@ -2499,7 +2499,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "13 ms",
               "memory": "57.6 MB",
               "githubPath": "LeetCode/Array/Perfect Rectangle/"
@@ -2520,7 +2520,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "29 ms",
               "memory": "99.4 MB",
               "githubPath": "LeetCode/Array/Insert Delete GetRandom O(1) - Duplicates allowed/"
@@ -2539,7 +2539,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629866985,
+              "syncedAt": 1787651083411,
               "runtime": "2 ms",
               "memory": "59.3 MB",
               "githubPath": "LeetCode/Array/Self Crossing/"
