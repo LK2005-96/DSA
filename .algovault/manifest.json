@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T09:43:40.227Z",
+  "lastUpdated": "2026-08-25T09:43:50.783Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1116,7 +1116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818506,
+              "syncedAt": 1787651030782,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Tree/Invert Binary Tree/"
@@ -1136,7 +1136,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818506,
+              "syncedAt": 1787651030782,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
@@ -1155,7 +1155,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030782,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
@@ -1175,7 +1175,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030782,
               "runtime": "4 ms",
               "memory": "82.1 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
@@ -1200,7 +1200,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030782,
               "runtime": "22 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -1219,7 +1219,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "11 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -1239,7 +1239,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "6 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -1257,7 +1257,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "2 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -1282,7 +1282,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -1305,7 +1305,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "438 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -1322,7 +1322,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Math/Angle Between Hands of a Clock/"
@@ -1342,7 +1342,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629818507,
+              "syncedAt": 1787651030783,
               "runtime": "167 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
