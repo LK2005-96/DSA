@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787632932508" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787636348851" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -156,6 +156,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
 | 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
 | 3689 | [Maximum Total Subarray Value I](./Array/Maximum%20Total%20Subarray%20Value%20I/) | Medium |
+| 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3898 | [Find the Degree of Each Vertex](./Array/Find%20the%20Degree%20of%20Each%20Vertex/) | Easy |
 
 </details>

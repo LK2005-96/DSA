@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:42:12.498Z",
+  "lastUpdated": "2026-08-25T05:39:08.837Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5538,6 +5538,24 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
+            }
+          }
+        },
+        "smallest-missing-multiple-of-k": {
+          "questionId": "3718",
+          "title": "Smallest Missing Multiple of K",
+          "titleSlug": "smallest-missing-multiple-of-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "123456789101112131415class solution {    public int missingmultiple(int[] nums, int k) {        set<integer> seen = new hashset<>();        for (int num : nums) {            seen.add(num);        }        int cur = k;        while (seen.contains(cur)) {            cur += k;        }        return cur;    }}": {
+              "syncedAt": 1787636348836,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
             }
           }
         }
