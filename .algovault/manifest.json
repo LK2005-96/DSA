@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:38:04.395Z",
+  "lastUpdated": "2026-08-25T04:42:12.498Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5531,6 +5531,12 @@
               "syncedAt": 1787632684394,
               "runtime": "42 ms",
               "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Beautiful Arrangement/"
+            },
+            "1234567891011121314151617181920212223class solution {    int count=0;    public int countarrangement(int n) {        int num[] = new int[n+1];        helper(num,1,n);        return count;    }    public void helper(int num[], int val, int n){        if(val>n){            count++;            return;        }        for(int i=1;i<=n;i++){            if(num[i]==0 && (i%val==0 || val%i==0)){                num[i]=1;                helper(num,val+1,n);                num[i]=0;            }        }    }}": {
+              "syncedAt": 1787632932498,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
             }
           }
