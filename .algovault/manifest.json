@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T03:53:13.435Z",
+  "lastUpdated": "2026-08-25T04:12:50.519Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5492,6 +5492,25 @@
               "runtime": "0 ms",
               "memory": "40 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787631170519,
+              "runtime": "23 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
             }
           }
         }
