@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:28:45.272Z",
+  "lastUpdated": "2026-08-25T10:40:59.351Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1534,9 +1534,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653725272,
+              "syncedAt": 1787654459350,
               "runtime": "0 ms",
-              "memory": "43.4 MB",
+              "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
             }
           }
