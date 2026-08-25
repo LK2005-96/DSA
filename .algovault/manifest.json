@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T09:46:55.765Z",
+  "lastUpdated": "2026-08-25T09:47:01.085Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5466,7 +5466,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629993435,
+              "syncedAt": 1787651221085,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
@@ -5488,7 +5488,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629993435,
+              "syncedAt": 1787651221085,
               "runtime": "0 ms",
               "memory": "40 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
