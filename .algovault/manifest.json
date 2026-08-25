@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:43:50.114Z",
+  "lastUpdated": "2026-08-25T10:46:08.516Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5024,6 +5024,12 @@
               "syncedAt": 1787654630114,
               "runtime": "27 ms",
               "memory": "51.5 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            },
+            "1c": {
+              "syncedAt": 1787654768515,
+              "runtime": "27 ms",
+              "memory": "51.52 MB",
               "githubPath": "LeetCode/Array/3Sum/"
             }
           }
