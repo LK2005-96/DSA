@@ -1,8 +1,6 @@
 class Solution:
-    def findTheDifference(self, s: str, t: str) -> str:
-        r=0
-        for c in s:
-         r^=ord(c)
-        for c in t:
-         r^=ord(c)
-        return chr(r)
+    def findTheDifference(self, s, t):
+        c = 0
+        for cs in s: c ^= ord(cs) #ord is ASCII value
+        for ct in t: c ^= ord(ct)
+        return chr(c) #chr = convert ASCII into character
