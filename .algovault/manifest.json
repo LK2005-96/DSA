@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T09:42:49.498Z",
+  "lastUpdated": "2026-08-25T09:43:08.491Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -168,7 +168,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "1 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -186,7 +186,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "2 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/String/Simplify Path/"
@@ -209,7 +209,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "2 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Maximum Binary Tree/"
@@ -228,7 +228,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
@@ -247,7 +247,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "2 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
@@ -266,7 +266,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
@@ -286,7 +286,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "9 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
@@ -305,7 +305,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Linked List/Insert Greatest Common Divisors in Linked List/"
@@ -324,7 +324,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "3 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Array/Find the Degree of Each Vertex/"
@@ -342,7 +342,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "32 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Substrings With Distinct Start/"
@@ -360,7 +360,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
@@ -377,7 +377,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629779732,
+              "syncedAt": 1787650988491,
               "runtime": "4 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
