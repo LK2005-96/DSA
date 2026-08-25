@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787638064462" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787645206750" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -138,6 +138,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1030 | [Matrix Cells in Distance Order](./Array/Matrix%20Cells%20in%20Distance%20Order/) | Easy |
 | 1052 | [Grumpy Bookstore Owner](./Array/Grumpy%20Bookstore%20Owner/) | Medium |
+| 1053 | [Previous Permutation With One Swap](./Array/Previous%20Permutation%20With%20One%20Swap/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T06:07:44.447Z",
+  "lastUpdated": "2026-08-25T08:06:46.729Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5574,6 +5574,24 @@
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement II/"
+            }
+          }
+        },
+        "previous-permutation-with-one-swap": {
+          "questionId": "1053",
+          "title": "Previous Permutation With One Swap",
+          "titleSlug": "previous-permutation-with-one-swap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787645206729,
+              "runtime": "0 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
             }
           }
         }
