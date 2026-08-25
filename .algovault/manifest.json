@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T08:06:46.729Z",
+  "lastUpdated": "2026-08-25T09:42:38.983Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2050,7 +2050,7 @@
               "githubPath": "LeetCode/Array/Maximum Subarray/"
             },
             "java": {
-              "syncedAt": 1787629855421,
+              "syncedAt": 1787650958982,
               "runtime": "1 ms",
               "memory": "77.3 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -4984,9 +4984,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787629970728,
+              "syncedAt": 1787650958983,
               "runtime": "1 ms",
-              "memory": "61.4 MB",
+              "memory": "94.3 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             }
           }
@@ -5507,7 +5507,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787631170519,
+              "syncedAt": 1787650958983,
               "runtime": "23 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
@@ -5528,7 +5528,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787632684394,
+              "syncedAt": 1787650958983,
               "runtime": "42 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
@@ -5556,6 +5556,12 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
+            },
+            "java": {
+              "syncedAt": 1787650958983,
+              "runtime": "2 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
             }
           }
         },
@@ -5570,7 +5576,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787638064446,
+              "syncedAt": 1787650958983,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement II/"
@@ -5588,9 +5594,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787645206729,
+              "syncedAt": 1787650958983,
               "runtime": "0 ms",
-              "memory": "47.7 MB",
+              "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
             }
           }

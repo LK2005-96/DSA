@@ -15,14 +15,17 @@ class Solution {
 
         // Step 2: Find the largest element smaller than arr[i]
         int j = arr.length - 1;
-
-        while (arr[j] >= arr[i]) {
-            j--;
-        }
-
-        // Handle duplicates: choose the leftmost occurrence
-        while (j > i + 1 && arr[j] == arr[j - 1]) {
-            j--;
+        int max=Integer.MIN_VALUE;
+        for(int k=i+1;k<arr.length;k++)
+        {
+            if(arr[k]<arr[i])
+            {
+                if(max<arr[k]) 
+                {
+                    j=k;
+                    max=arr[k];
+                }
+            }
         }
 
         // Step 3: One swap
