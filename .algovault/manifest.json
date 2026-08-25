@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:36:01.573Z",
+  "lastUpdated": "2026-08-25T04:38:04.395Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5528,9 +5528,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787632561573,
+              "syncedAt": 1787632684394,
               "runtime": "42 ms",
-              "memory": "41.5 MB",
+              "memory": "42 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
             }
           }

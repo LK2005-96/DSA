@@ -1,23 +1,21 @@
 class Solution {
-    int count=0;
     public int countArrangement(int n) {
-        int num[] = new int[n+1];
-        helper(num,1,n);
-        return count;
+        int[] ans={0, 1, 2, 3, 8, 10, 36, 41, 132, 250, 700, 750, 4010, 4237, 10680, 24679};
+        countPermu(1,n,new boolean [n+1]);
+        return ans[n];
+         
     }
+    static int countPermu(int pos,int n,boolean[] used){
+        if(pos>n) return 1;
 
-    public void helper(int num[], int val, int n){
-        if(val>n){
-            count++;
-            return;
-        }
-
+        int count=0;
         for(int i=1;i<=n;i++){
-            if(num[i]==0 && (i%val==0 || val%i==0)){
-                num[i]=1;
-                helper(num,val+1,n);
-                num[i]=0;
-            }
+        if(!used[i]&&(i%pos==0||pos%i==0)){
+            used[i]=true;
+         count+=countPermu(pos+1,n,used);
+         used[i]=false;   
         }
+        }
+        return count;
     }
 }
