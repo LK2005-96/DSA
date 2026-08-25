@@ -1,24 +1,25 @@
 class Solution {
     public String reversePrefix(String word, char ch) {
-        Stack<Character> stack=new Stack<>();
-        String g="";
-        int index=0;
-        boolean k=false;
-        for(char c:word.toCharArray())
+     int index=-1;
+     for(int i=0;i<word.length();i++)
+     {
+        if(word.charAt(i)==ch) 
         {
-              stack.push(c);
-              index++;
-              if(c==ch)
-              { k=true;
-                while(!stack.isEmpty()){ g+=stack.pop();}
-                break;
-              }
+          index=i;
+          break;
         }
-        for(int i=index;i<word.length();i++)
-        {
-            g+=word.charAt(i);
-        }
-        if(k)return g;
-        return word;
+     }
+     if(index==-1) return word;
+     int i=0;
+     char [] arr=word.toCharArray();
+     while(i<index)
+     {
+        char temp=arr[i];
+        arr[i]=arr[index];
+        arr[index]=temp;
+        index--;
+        i++;
+     } 
+     return new String(arr);
     }
 }
