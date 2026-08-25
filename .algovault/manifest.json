@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:12:50.519Z",
+  "lastUpdated": "2026-08-25T04:36:01.573Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5511,6 +5511,27 @@
               "runtime": "23 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "beautiful-arrangement": {
+          "questionId": "526",
+          "title": "Beautiful Arrangement",
+          "titleSlug": "beautiful-arrangement",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787632561573,
+              "runtime": "42 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Array/Beautiful Arrangement/"
             }
           }
         }
