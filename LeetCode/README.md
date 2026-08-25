@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787636348851" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787638064462" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -115,6 +115,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 654 | [Maximum Binary Tree](./Array/Maximum%20Binary%20Tree/) | Medium |
+| 667 | [Beautiful Arrangement II](./Array/Beautiful%20Arrangement%20II/) | Medium |
 | 679 | [24 Game](./Array/24%20Game/) | Hard |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 710 | [Random Pick with Blacklist](./Array/Random%20Pick%20with%20Blacklist/) | Hard |
