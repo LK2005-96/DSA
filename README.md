@@ -10,7 +10,7 @@ This repository contains my personal library of highly optimized, strictly teste
 ## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787650998366" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787651010808" width="100%" />
 </p>
 
 ## 📂 Repository Structure
