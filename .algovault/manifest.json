@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T03:52:26.563Z",
+  "lastUpdated": "2026-08-25T03:52:33.209Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1365,7 +1365,7 @@
               "githubPath": "LeetCode/String/Length of Last Word/"
             },
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "0 ms",
               "memory": "12.6 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -4714,13 +4714,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "1 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
             },
             "java": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "0 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
@@ -4738,13 +4738,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "23 ms",
               "memory": "13.6 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
             },
             "java": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "5 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
@@ -4762,13 +4762,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "1 ms",
               "memory": "12.4 MB",
               "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
             },
             "java": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
@@ -4787,13 +4787,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "2 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
             },
             "java": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "1 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
@@ -4812,13 +4812,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "4 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
             },
             "java": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "0 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
@@ -4835,13 +4835,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
             },
             "python": {
-              "syncedAt": 1787558280042,
+              "syncedAt": 1787629953209,
               "runtime": "3 ms",
               "memory": "12.3 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
