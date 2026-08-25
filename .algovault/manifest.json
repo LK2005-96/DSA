@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:28:22.119Z",
+  "lastUpdated": "2026-08-25T10:28:45.272Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1534,9 +1534,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651039657,
-              "runtime": "5 ms",
-              "memory": "43.9 MB",
+              "syncedAt": 1787653725272,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
             }
           }
@@ -5616,9 +5616,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653702118,
-              "runtime": "2 ms",
-              "memory": "81.5 MB",
+              "syncedAt": 1787653438307,
+              "runtime": "32 ms",
+              "memory": "91.8 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
             }
           }
