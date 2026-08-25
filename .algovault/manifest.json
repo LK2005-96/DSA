@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T03:50:41.163Z",
+  "lastUpdated": "2026-08-25T03:50:49.070Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1861,7 +1861,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558188288,
+              "syncedAt": 1787629849070,
               "runtime": "25 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -1880,7 +1880,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193041,
+              "syncedAt": 1787629849070,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -1903,7 +1903,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193041,
+              "syncedAt": 1787629849070,
               "runtime": "0 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
@@ -1921,7 +1921,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193041,
+              "syncedAt": 1787629849070,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
@@ -1941,7 +1941,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193042,
+              "syncedAt": 1787629849070,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Number of Good Pairs/"
@@ -1959,7 +1959,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193042,
+              "syncedAt": 1787629849070,
               "runtime": "1 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Restore Finishing Order/"
@@ -1978,7 +1978,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193042,
+              "syncedAt": 1787629849070,
               "runtime": "2 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
@@ -1997,7 +1997,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558193042,
+              "syncedAt": 1787629849070,
               "runtime": "1 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
@@ -2019,13 +2019,13 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1787558193042,
+              "syncedAt": 1787629849070,
               "runtime": "3 ms",
               "memory": "21.1 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
             },
             "java": {
-              "syncedAt": 1787558193042,
+              "syncedAt": 1787629849070,
               "runtime": "1 ms",
               "memory": "55.9 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
