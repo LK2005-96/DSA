@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T03:52:54.738Z",
+  "lastUpdated": "2026-08-25T03:52:58.656Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5224,7 +5224,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558301700,
+              "syncedAt": 1787629978656,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
@@ -5243,7 +5243,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558301701,
+              "syncedAt": 1787629978656,
               "runtime": "0 ms",
               "memory": "57.6 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -5267,7 +5267,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787558301701,
+              "syncedAt": 1787629978656,
               "runtime": "2 ms",
               "memory": "55.6 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
