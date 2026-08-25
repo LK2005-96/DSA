@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:08:28.652Z",
+  "lastUpdated": "2026-08-25T10:23:58.308Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5598,6 +5598,28 @@
               "runtime": "0 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation",
+            "Pigeonhole Principle",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787653438307,
+              "runtime": "32 ms",
+              "memory": "91.8 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
             }
           }
         }
