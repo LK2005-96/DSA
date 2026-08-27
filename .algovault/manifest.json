@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:08:27.790Z",
+  "lastUpdated": "2026-08-27T04:36:44.619Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5638,6 +5638,26 @@
               "runtime": "2 ms",
               "memory": "81.5 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787805404618,
+              "runtime": "1 ms",
+              "memory": "49 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
             }
           }
         }
