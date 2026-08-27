@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:00:59.166Z",
+  "lastUpdated": "2026-08-27T04:01:04.316Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1824,7 +1824,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803264314,
               "runtime": "5 ms",
               "memory": "160.1 MB",
               "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
@@ -1843,7 +1843,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803264315,
               "runtime": "63 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/String/Removing Stars From a String/"
@@ -1861,7 +1861,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651062129,
+              "syncedAt": 1787803264315,
               "runtime": "25 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -1880,7 +1880,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651062129,
+              "syncedAt": 1787803264315,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -1903,7 +1903,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651062129,
+              "syncedAt": 1787803264315,
               "runtime": "0 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
@@ -1921,7 +1921,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651062129,
+              "syncedAt": 1787803264315,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
@@ -1941,7 +1941,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651062129,
+              "syncedAt": 1787803264315,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Number of Good Pairs/"
