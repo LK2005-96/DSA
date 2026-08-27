@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:59:48.611Z",
+  "lastUpdated": "2026-08-27T03:59:55.332Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -116,7 +116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650969498,
+              "syncedAt": 1787803195332,
               "runtime": "1 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650969498,
+              "syncedAt": 1787803195332,
               "runtime": "0 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
@@ -150,7 +150,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650969498,
+              "syncedAt": 1787803195332,
               "runtime": "2 ms",
               "memory": "52.6 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -168,7 +168,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650988491,
+              "syncedAt": 1787803195332,
               "runtime": "1 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -186,7 +186,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650988491,
+              "syncedAt": 1787803195332,
               "runtime": "2 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/String/Simplify Path/"
@@ -209,7 +209,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650988491,
+              "syncedAt": 1787803195332,
               "runtime": "2 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Maximum Binary Tree/"
@@ -228,7 +228,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650988491,
+              "syncedAt": 1787803195332,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
@@ -247,7 +247,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650988491,
+              "syncedAt": 1787803195332,
               "runtime": "2 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
@@ -266,7 +266,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650988491,
+              "syncedAt": 1787803195332,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
