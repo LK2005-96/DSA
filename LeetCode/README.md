@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787803198782" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787803203169" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -258,7 +258,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
-| 3720 | [Lexicographically Smallest Permutation Greater Than Target](./Hash%20Table/Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) | Medium |
 | 3760 | [Maximum Substrings With Distinct Start](./Hash%20Table/Maximum%20Substrings%20With%20Distinct%20Start/) | Medium |
 
 </details>
