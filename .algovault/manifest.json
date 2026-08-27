@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:03:04.866Z",
+  "lastUpdated": "2026-08-27T04:03:09.182Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5261,7 +5261,7 @@
               "githubPath": "LeetCode/Array/Rotate Array/"
             },
             "python": {
-              "syncedAt": 1787651210231,
+              "syncedAt": 1787803389182,
               "runtime": "3 ms",
               "memory": "22.8 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -5318,7 +5318,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651210231,
+              "syncedAt": 1787803389182,
               "runtime": "3 ms",
               "memory": "55.5 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
@@ -5335,7 +5335,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651215765,
+              "syncedAt": 1787803389182,
               "runtime": "1 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
@@ -5352,7 +5352,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651215765,
+              "syncedAt": 1787803389182,
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -5370,7 +5370,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651215765,
+              "syncedAt": 1787803389182,
               "runtime": "8 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
