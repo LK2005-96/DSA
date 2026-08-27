@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:02:57.048Z",
+  "lastUpdated": "2026-08-27T04:03:00.600Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5218,7 +5218,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651202413,
+              "syncedAt": 1787803380600,
               "runtime": "1 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -5236,7 +5236,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651206387,
+              "syncedAt": 1787803380600,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
