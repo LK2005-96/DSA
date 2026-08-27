@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T11:06:28.485Z",
+  "lastUpdated": "2026-08-27T03:59:39.250Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1534,7 +1534,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787654459350,
+              "syncedAt": 1787803179249,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
@@ -2025,9 +2025,9 @@
               "githubPath": "LeetCode/Array/Majority Element/"
             },
             "java": {
-              "syncedAt": 1787651062129,
-              "runtime": "1 ms",
-              "memory": "55.9 MB",
+              "syncedAt": 1787803179250,
+              "runtime": "21 ms",
+              "memory": "52.4 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
@@ -2050,7 +2050,7 @@
               "githubPath": "LeetCode/Array/Maximum Subarray/"
             },
             "java": {
-              "syncedAt": 1787650958982,
+              "syncedAt": 1787803179250,
               "runtime": "1 ms",
               "memory": "77.3 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -4990,7 +4990,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650958983,
+              "syncedAt": 1787803179250,
               "runtime": "1 ms",
               "memory": "94.3 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -5069,9 +5069,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651632523,
-              "runtime": "6 ms",
-              "memory": "46.7 MB",
+              "syncedAt": 1787803179250,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
@@ -5606,7 +5606,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650958983,
+              "syncedAt": 1787803179250,
               "runtime": "0 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
@@ -5628,9 +5628,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653438307,
-              "runtime": "32 ms",
-              "memory": "91.8 MB",
+              "syncedAt": 1787803179250,
+              "runtime": "2 ms",
+              "memory": "81.5 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
             }
           }
