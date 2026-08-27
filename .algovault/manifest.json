@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:07:13.710Z",
+  "lastUpdated": "2026-08-27T04:08:27.790Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1729,6 +1729,12 @@
               "syncedAt": 1787803370941,
               "runtime": "125 ms",
               "memory": "20.8 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            },
+            "1c": {
+              "syncedAt": 1787803707789,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
