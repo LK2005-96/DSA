@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:01:56.734Z",
+  "lastUpdated": "2026-08-27T04:02:03.753Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -854,7 +854,7 @@
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             },
             "python": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "3006 ms",
               "memory": "14.3 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -3544,7 +3544,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "1 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
@@ -3562,7 +3562,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "0 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -3580,7 +3580,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
@@ -3599,7 +3599,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "20 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -3618,13 +3618,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "424 ms",
               "memory": "12.4 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
             },
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803323752,
               "runtime": "18 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
@@ -3643,7 +3643,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651135926,
+              "syncedAt": 1787803323753,
               "runtime": "1 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -3665,7 +3665,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651135926,
+              "syncedAt": 1787803323753,
               "runtime": "116 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Array/Sudoku Solver/"
@@ -3684,13 +3684,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787651135926,
+              "syncedAt": 1787803323753,
               "runtime": "5 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Array/String Matching in an Array/"
             },
             "java": {
-              "syncedAt": 1787651135926,
+              "syncedAt": 1787803323753,
               "runtime": "3 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Array/String Matching in an Array/"
@@ -3710,13 +3710,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787651135926,
+              "syncedAt": 1787803323753,
               "runtime": "0 ms",
               "memory": "12.6 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
             },
             "java": {
-              "syncedAt": 1787651135927,
+              "syncedAt": 1787803323753,
               "runtime": "74 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
@@ -3738,13 +3738,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787651135927,
+              "syncedAt": 1787803323753,
               "runtime": "973 ms",
               "memory": "13 MB",
               "githubPath": "LeetCode/Array/My Calendar II/"
             },
             "java": {
-              "syncedAt": 1787651135927,
+              "syncedAt": 1787803323753,
               "runtime": "52 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/My Calendar II/"
