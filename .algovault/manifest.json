@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:01:48.570Z",
+  "lastUpdated": "2026-08-27T04:01:56.734Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3292,7 +3292,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651116953,
+              "syncedAt": 1787803316734,
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Search a 2D Matrix/"
@@ -3311,7 +3311,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651116953,
+              "syncedAt": 1787803316734,
               "runtime": "3 ms",
               "memory": "50.5 MB",
               "githubPath": "LeetCode/Array/Minimum Path Sum/"
@@ -3330,7 +3330,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651116953,
+              "syncedAt": 1787803316734,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Unique Paths II/"
@@ -3349,7 +3349,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651116953,
+              "syncedAt": 1787803316734,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix II/"
@@ -3366,7 +3366,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Insert Interval/"
@@ -3385,7 +3385,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "8 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -3404,7 +3404,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "1 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -3423,7 +3423,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
@@ -3442,7 +3442,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -3461,7 +3461,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "73 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -3480,7 +3480,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Jump Game II/"
@@ -3501,7 +3501,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787655566475,
+              "syncedAt": 1787803316734,
               "runtime": "0 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
@@ -3525,7 +3525,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651127982,
+              "syncedAt": 1787803316734,
               "runtime": "6 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Combination Sum II/"
