@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:00:52.245Z",
+  "lastUpdated": "2026-08-27T04:00:59.166Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1627,7 +1627,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651046117,
+              "syncedAt": 1787803259165,
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Text Justification/"
@@ -1646,7 +1646,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651046117,
+              "syncedAt": 1787803259165,
               "runtime": "55 ms",
               "memory": "70.8 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
@@ -1664,7 +1664,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651046118,
+              "syncedAt": 1787803259165,
               "runtime": "197 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Grumpy Bookstore Owner/"
@@ -1682,7 +1682,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651046118,
+              "syncedAt": 1787803259165,
               "runtime": "1 ms",
               "memory": "62.4 MB",
               "githubPath": "LeetCode/Array/Maximum Total Subarray Value I/"
@@ -1701,7 +1701,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651046118,
+              "syncedAt": 1787803259165,
               "runtime": "22 ms",
               "memory": "54.5 MB",
               "githubPath": "LeetCode/Array/Subarray Sums Divisible by K/"
@@ -1720,7 +1720,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803259165,
               "runtime": "5 ms",
               "memory": "77.6 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -1747,7 +1747,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803259165,
               "runtime": "13 ms",
               "memory": "59.8 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
@@ -1766,7 +1766,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803259165,
               "runtime": "2 ms",
               "memory": "61.7 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
@@ -1786,7 +1786,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803259166,
               "runtime": "2 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Longest Mountain in Array/"
@@ -1805,7 +1805,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651054452,
+              "syncedAt": 1787803259166,
               "runtime": "4 ms",
               "memory": "175.5 MB",
               "githubPath": "LeetCode/Array/Rearrange Array Elements by Sign/"
