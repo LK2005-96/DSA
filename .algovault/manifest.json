@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:46:22.952Z",
+  "lastUpdated": "2026-08-28T03:46:27.176Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1200,7 +1200,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776256,
+              "syncedAt": 1787803237350,
               "runtime": "22 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -1219,7 +1219,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776256,
+              "syncedAt": 1787803237350,
               "runtime": "11 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -1239,7 +1239,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776256,
+              "syncedAt": 1787803247634,
               "runtime": "6 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -1257,7 +1257,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776256,
+              "syncedAt": 1787803247634,
               "runtime": "2 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -1282,7 +1282,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776256,
+              "syncedAt": 1787803247634,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -1305,7 +1305,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787888776256,
+              "syncedAt": 1787803247634,
               "runtime": "438 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -1322,7 +1322,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776257,
+              "syncedAt": 1787803247634,
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Math/Angle Between Hands of a Clock/"
@@ -1342,7 +1342,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776257,
+              "syncedAt": 1787803247634,
               "runtime": "167 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
@@ -1359,7 +1359,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776257,
+              "syncedAt": 1787803247634,
               "runtime": "1 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -1387,7 +1387,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776257,
+              "syncedAt": 1787803247634,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -1409,7 +1409,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888776257,
+              "syncedAt": 1787803247634,
               "runtime": "49 ms",
               "memory": "52.3 MB",
               "githubPath": "LeetCode/Array/Design Browser History/"
@@ -1429,7 +1429,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782951,
+              "syncedAt": 1787803247634,
               "runtime": "3 ms",
               "memory": "94.3 MB",
               "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
@@ -1447,7 +1447,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782951,
+              "syncedAt": 1787803247634,
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
@@ -1464,7 +1464,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782951,
+              "syncedAt": 1787803247634,
               "runtime": "0 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
@@ -1484,7 +1484,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782951,
+              "syncedAt": 1787803247634,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -1507,7 +1507,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782951,
+              "syncedAt": 1787803252245,
               "runtime": "0 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
@@ -1553,7 +1553,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782951,
+              "syncedAt": 1787803252245,
               "runtime": "61 ms",
               "memory": "107.5 MB",
               "githubPath": "LeetCode/Array/Daily Temperatures/"
@@ -1573,7 +1573,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888782952,
+              "syncedAt": 1787803252245,
               "runtime": "1 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -5679,6 +5679,24 @@
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Hash Table/Lexicographically Smallest Permutation Greater Than Target/"
+            }
+          }
+        },
+        "shortest-and-lexicographically-smallest-beautiful-string": {
+          "questionId": "2904",
+          "title": "Shortest and Lexicographically Smallest Beautiful String",
+          "titleSlug": "shortest-and-lexicographically-smallest-beautiful-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787888787176,
+              "runtime": "7 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/String/Shortest and Lexicographically Smallest Beautiful String/"
             }
           }
         }
