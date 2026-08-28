@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:07:07.509Z",
+  "lastUpdated": "2026-08-28T04:07:11.902Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5267,7 +5267,7 @@
               "githubPath": "LeetCode/Array/Rotate Array/"
             },
             "python": {
-              "syncedAt": 1787888971287,
+              "syncedAt": 1787890031902,
               "runtime": "3 ms",
               "memory": "22.8 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -5307,7 +5307,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888971287,
+              "syncedAt": 1787890031902,
               "runtime": "0 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -5324,7 +5324,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888971287,
+              "syncedAt": 1787890031902,
               "runtime": "3 ms",
               "memory": "55.5 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
@@ -5341,7 +5341,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888971287,
+              "syncedAt": 1787890031902,
               "runtime": "1 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
