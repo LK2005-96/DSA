@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:06:58.592Z",
+  "lastUpdated": "2026-08-28T04:07:03.270Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5188,7 +5188,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888955051,
+              "syncedAt": 1787890023270,
               "runtime": "2 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -5206,7 +5206,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888955051,
+              "syncedAt": 1787890023270,
               "runtime": "12 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -5224,7 +5224,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888955051,
+              "syncedAt": 1787890023270,
               "runtime": "1 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
