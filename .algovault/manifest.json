@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:48:14.200Z",
+  "lastUpdated": "2026-08-28T03:48:21.063Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2114,7 +2114,7 @@
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
             },
             "python": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "3 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
@@ -4155,7 +4155,7 @@
               "githubPath": "LeetCode/Array/Fair Candy Swap/"
             },
             "python": {
-              "syncedAt": 1787803337455,
+              "syncedAt": 1787888901062,
               "runtime": "11 ms",
               "memory": "14.5 MB",
               "githubPath": "LeetCode/Array/Fair Candy Swap/"
@@ -4174,13 +4174,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803337455,
+              "syncedAt": 1787888901062,
               "runtime": "2 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Hash Table/Custom Sort String/"
             },
             "python": {
-              "syncedAt": 1787803337455,
+              "syncedAt": 1787888901062,
               "runtime": "0 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Hash Table/Custom Sort String/"
@@ -4200,13 +4200,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803337455,
+              "syncedAt": 1787888901062,
               "runtime": "12 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
             },
             "python": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901062,
               "runtime": "73 ms",
               "memory": "13.8 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
@@ -4225,13 +4225,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "3 ms",
               "memory": "13.8 MB",
               "githubPath": "LeetCode/Array/Relative Ranks/"
             },
             "java": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "10 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Relative Ranks/"
@@ -4252,13 +4252,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "5 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
             },
             "python": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "1 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
@@ -4279,13 +4279,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "2 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
             },
             "python": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "0 ms",
               "memory": "12.6 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
@@ -4304,13 +4304,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "89 ms",
               "memory": "20.1 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
             },
             "java": {
-              "syncedAt": 1787803342672,
+              "syncedAt": 1787888901063,
               "runtime": "13 ms",
               "memory": "58.2 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
