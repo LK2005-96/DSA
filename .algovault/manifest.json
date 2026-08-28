@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:47:19.496Z",
+  "lastUpdated": "2026-08-28T03:47:33.376Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2945,7 +2945,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888853375,
               "runtime": "0 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Dungeon Game/"
@@ -2963,7 +2963,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888853375,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array II/"
@@ -2982,7 +2982,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888853375,
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Regular Expression Matching/"
@@ -3001,7 +3001,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "6 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
@@ -3023,7 +3023,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "27 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Max Points on a Line/"
@@ -3046,7 +3046,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "4 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Array/Word Break II/"
@@ -3069,7 +3069,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Word Break/"
@@ -3087,7 +3087,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "6 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Single Number II/"
@@ -3105,7 +3105,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "3 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Candy/"
@@ -3123,7 +3123,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853375,
               "runtime": "2 ms",
               "memory": "119.6 MB",
               "githubPath": "LeetCode/Array/Gas Station/"
@@ -3144,7 +3144,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853376,
               "runtime": "3 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Surrounded Regions/"
@@ -3163,7 +3163,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853376,
               "runtime": "31 ms",
               "memory": "96 MB",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
@@ -3181,7 +3181,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888853376,
               "runtime": "192 ms",
               "memory": "153.2 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
