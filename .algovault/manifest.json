@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T04:04:11.516Z",
+  "lastUpdated": "2026-08-28T04:04:20.343Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -397,7 +397,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888736869,
+              "syncedAt": 1787889860342,
               "runtime": "46 ms",
               "memory": "115.5 MB",
               "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
@@ -415,7 +415,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "1 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Linked List/Remove Linked List Elements/"
@@ -433,7 +433,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
@@ -454,7 +454,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "195 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Word Search/"
@@ -473,7 +473,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
@@ -493,7 +493,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "0 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
@@ -519,7 +519,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -546,7 +546,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "230 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
@@ -565,7 +565,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "15 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
@@ -583,7 +583,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860342,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
@@ -603,7 +603,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860343,
               "runtime": "210 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Number of Unique XOR Triplets II/"
@@ -622,7 +622,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747924,
+              "syncedAt": 1787889860343,
               "runtime": "0 ms",
               "memory": "125.4 MB",
               "githubPath": "LeetCode/Array/Number of Unique XOR Triplets I/"
@@ -662,7 +662,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747925,
+              "syncedAt": 1787889860343,
               "runtime": "2824 ms",
               "memory": "110.7 MB",
               "githubPath": "LeetCode/Array/Find the Number of Subsequences With Equal GCD/"
@@ -679,7 +679,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747925,
+              "syncedAt": 1787889860343,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Enumeration/Sequential Digits/"
@@ -698,7 +698,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888747925,
+              "syncedAt": 1787889860343,
               "runtime": "28 ms",
               "memory": "69.7 MB",
               "githubPath": "LeetCode/Array/Rank Transform of an Array/"
