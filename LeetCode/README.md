@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787888787177" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Lalith_Kishore_S_A?theme=tokyonight&show=graph,recent&v=1787888790188" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -370,7 +370,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1221 | [Split a String in Balanced Strings](./String/Split%20a%20String%20in%20Balanced%20Strings/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
-| 2904 | [Shortest and Lexicographically Smallest Beautiful String](./String/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) | Medium |
 | 3499 | [Maximize Active Section with Trade I](./String/Maximize%20Active%20Section%20with%20Trade%20I/) | Medium |
 
 </details>
