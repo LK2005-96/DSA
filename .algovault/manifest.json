@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:47:47.786Z",
+  "lastUpdated": "2026-08-28T03:47:57.964Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -854,7 +854,7 @@
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             },
             "python": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877964,
               "runtime": "3006 ms",
               "memory": "14.3 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -3448,7 +3448,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888877963,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -3467,7 +3467,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888877963,
               "runtime": "73 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -3486,7 +3486,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888877963,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Jump Game II/"
@@ -3507,7 +3507,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888877963,
               "runtime": "0 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
@@ -3531,7 +3531,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888877963,
               "runtime": "6 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Combination Sum II/"
@@ -3550,7 +3550,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877963,
               "runtime": "1 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
@@ -3568,7 +3568,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877963,
               "runtime": "0 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -3586,7 +3586,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877963,
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
@@ -3605,7 +3605,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877963,
               "runtime": "20 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -3624,13 +3624,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877963,
               "runtime": "424 ms",
               "memory": "12.4 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
             },
             "java": {
-              "syncedAt": 1787803323752,
+              "syncedAt": 1787888877964,
               "runtime": "18 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
@@ -3649,7 +3649,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803323753,
+              "syncedAt": 1787888877964,
               "runtime": "1 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -3671,7 +3671,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803323753,
+              "syncedAt": 1787888877964,
               "runtime": "116 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Array/Sudoku Solver/"
@@ -3690,13 +3690,13 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1787803323753,
+              "syncedAt": 1787888877964,
               "runtime": "5 ms",
               "memory": "12.5 MB",
               "githubPath": "LeetCode/Array/String Matching in an Array/"
             },
             "java": {
-              "syncedAt": 1787803323753,
+              "syncedAt": 1787888877964,
               "runtime": "3 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Array/String Matching in an Array/"
