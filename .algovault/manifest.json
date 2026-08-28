@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:47:07.483Z",
+  "lastUpdated": "2026-08-28T03:47:19.496Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2608,7 +2608,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803286626,
+              "syncedAt": 1787888839494,
               "runtime": "51 ms",
               "memory": "99.4 MB",
               "githubPath": "LeetCode/Array/Russian Doll Envelopes/"
@@ -2629,7 +2629,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803286626,
+              "syncedAt": 1787888839494,
               "runtime": "59 ms",
               "memory": "127 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate III/"
@@ -2648,7 +2648,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803286626,
+              "syncedAt": 1787888839494,
               "runtime": "50 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Remove Invalid Parentheses/"
@@ -2670,7 +2670,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803286626,
+              "syncedAt": 1787888839494,
               "runtime": "14 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/String/Serialize and Deserialize Binary Tree/"
@@ -2689,7 +2689,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803286626,
+              "syncedAt": 1787888839494,
               "runtime": "88 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Math/Expression Add Operators/"
@@ -2708,7 +2708,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839494,
               "runtime": "2 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Math/Integer to English Words/"
@@ -2728,7 +2728,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839494,
               "runtime": "7 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Math/Basic Calculator/"
@@ -2751,7 +2751,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839494,
               "runtime": "6 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/String/Shortest Palindrome/"
@@ -2769,7 +2769,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839494,
               "runtime": "9 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/String/Scramble String/"
@@ -2787,7 +2787,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839494,
               "runtime": "15 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Distinct Subsequences/"
@@ -2811,7 +2811,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839495,
               "runtime": "234 ms",
               "memory": "54 MB",
               "githubPath": "LeetCode/Array/The Skyline Problem/"
@@ -2828,7 +2828,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839495,
               "runtime": "1 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/String/Valid Number/"
@@ -2849,7 +2849,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839495,
               "runtime": "225 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Word Search II/"
@@ -2867,7 +2867,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839495,
               "runtime": "12 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock IV/"
@@ -2887,7 +2887,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839496,
               "runtime": "38 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/String/Wildcard Matching/"
@@ -2907,7 +2907,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839496,
               "runtime": "5 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Longest Valid Parentheses/"
@@ -2926,7 +2926,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803299347,
+              "syncedAt": 1787888839496,
               "runtime": "1384 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
