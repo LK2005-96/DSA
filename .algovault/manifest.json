@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:47:33.376Z",
+  "lastUpdated": "2026-08-28T03:47:47.786Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3200,7 +3200,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888867785,
               "runtime": "0 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
@@ -3218,7 +3218,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308569,
+              "syncedAt": 1787888867785,
               "runtime": "5 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Triangle/"
@@ -3239,7 +3239,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308570,
+              "syncedAt": 1787888867786,
               "runtime": "0 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
@@ -3258,7 +3258,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308570,
+              "syncedAt": 1787888867786,
               "runtime": "10 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -3279,7 +3279,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803308570,
+              "syncedAt": 1787888867786,
               "runtime": "4 ms",
               "memory": "49.7 MB",
               "githubPath": "LeetCode/Array/Maximal Rectangle/"
@@ -3298,7 +3298,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Search a 2D Matrix/"
@@ -3317,7 +3317,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "3 ms",
               "memory": "50.5 MB",
               "githubPath": "LeetCode/Array/Minimum Path Sum/"
@@ -3336,7 +3336,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Unique Paths II/"
@@ -3355,7 +3355,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix II/"
@@ -3372,7 +3372,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Insert Interval/"
@@ -3391,7 +3391,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "8 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -3410,7 +3410,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "1 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -3429,7 +3429,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787803316734,
+              "syncedAt": 1787888867786,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
