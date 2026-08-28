@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T03:45:10.415Z",
+  "lastUpdated": "2026-08-28T03:45:15.477Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1534,7 +1534,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803179249,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
@@ -1720,7 +1720,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803633710,
               "runtime": "5 ms",
               "memory": "77.3 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -2031,7 +2031,7 @@
               "githubPath": "LeetCode/Array/Majority Element/"
             },
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803179250,
               "runtime": "21 ms",
               "memory": "52.4 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -2056,7 +2056,7 @@
               "githubPath": "LeetCode/Array/Maximum Subarray/"
             },
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803179250,
               "runtime": "1 ms",
               "memory": "77.3 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -4334,9 +4334,9 @@
               "githubPath": "LeetCode/Array/Two Sum/"
             },
             "java": {
-              "syncedAt": 1787888710414,
-              "runtime": "33 ms",
-              "memory": "46.9 MB",
+              "syncedAt": 1787803342672,
+              "runtime": "37 ms",
+              "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
@@ -5075,7 +5075,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803179250,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
@@ -5612,7 +5612,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803179250,
               "runtime": "0 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
@@ -5634,7 +5634,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787803179250,
               "runtime": "2 ms",
               "memory": "81.5 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
@@ -5654,7 +5654,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710415,
+              "syncedAt": 1787812032167,
               "runtime": "2 ms",
               "memory": "49.3 MB",
               "githubPath": "LeetCode/Linked List/Reorder List/"
@@ -5675,7 +5675,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787888710413,
+              "syncedAt": 1787888715477,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Hash Table/Lexicographically Smallest Permutation Greater Than Target/"
